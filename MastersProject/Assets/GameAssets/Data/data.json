@@ -1,0 +1,235 @@
+{
+	"day_names": [
+		"May 1st",
+		"May 4th",
+		"May 7th",
+		"May 12th",
+		"May 15th"
+	],
+	"messages": [
+		{
+			"id": 1,
+			"day": 0,
+			"response": false,
+			"primary": "If you're reading this, the transmission was successful. Move me over to the allow section.",
+			"secondary": "IMP###ANT C##MUNI###ION ⚠",
+			"tertiary": "H#ME BAS#",
+			"parent": 0,
+			"allow": 2,
+			"deny": 3
+		},
+		{
+			"id": 2,
+			"day": 1,
+			"response": true,
+			"primary": "Perfect, you should be able to view previous messages to the left. Keep the line open using allow, we're looking to get you out of there.",
+			"secondary": "IMP###ANT C##MUNI###ION ⚠",
+			"tertiary": "H#ME BAS#",
+			"parent": 1,
+			"allow": 4,
+			"deny": 0
+		},
+		{
+			"id": 3,
+			"day": 1,
+			"response": true,
+			"primary": "Hey! I thought I told you to allow the message! If you keep marking us down as spam we won't be able to reach you. Let's try once again, put this message in allow.",
+			"secondary": "IMP###ANT C##MUNI###ION ⚠",
+			"tertiary": "H#ME BAS#",
+			"parent": 1,
+			"allow": 2,
+			"deny": 0
+		},
+		{
+			"id": 4,
+			"day": 1,
+			"response": true,
+			"primary": "We've got a large unidentified object on a direct collision course to your co-ordinates, you need to get out of there fast! This is our last message, good luck.",
+			"secondary": "IMP###ANT C##MUNI###ION ⚠",
+			"tertiary": "H#ME BAS#",
+			"parent": 2,
+			"allow": 0,
+			"deny": 0
+		},
+		{
+			"id": 5,
+			"day": 1,
+			"response": false,
+			"primary": "Nice transmission kid, this is some real top of the range equipment so I hope you don't mind me taking a closer inspection.",
+			"secondary": "👀👀",
+			"tertiary": "H4X0R",
+			"parent": 0,
+			"allow": 6,
+			"deny": 7
+		},
+		{
+			"id": 6,
+			"day": 2,
+			"response": true,
+			"primary": "Ha! Thanks for keeping me inside!\u000BI saw your comms, maybe I'll come scavenge what's left.",
+			"secondary": "👀👀",
+			"tertiary": "H4X0R",
+			"parent": 5,
+			"allow": 0,
+			"deny": 0
+		},
+		{
+			"id": 7,
+			"day": 1,
+			"response": true,
+			"primary": "H3Y! 1 W45N'7 D0N3 PWN1NG U!!!",
+			"secondary": "👀👀",
+			"tertiary": "H4X0R",
+			"parent": 5,
+			"allow": 0,
+			"deny": 0
+		},
+		{
+			"id": 8,
+			"day": 0,
+			"response": false,
+			"primary": "System operational at 95% capability.",
+			"secondary": "System Log",
+			"tertiary": "SYSTEM",
+			"parent": 0,
+			"allow": 0,
+			"deny": 0
+		},
+		{
+			"id": 9,
+			"day": 1,
+			"response": false,
+			"primary": "Welcome to the next day!",
+			"secondary": "New day",
+			"tertiary": "SYSTEM",
+			"parent": 0,
+			"allow": 0,
+			"deny": 0
+		},
+		{
+			"id": 10,
+			"day": 4,
+			"response": false,
+			"primary": "ERROR - NO NEW MESSAGES DETECTED",
+			"secondary": "ERROR ERROR ERROR",
+			"tertiary": "SYSTEM",
+			"parent": 0,
+			"allow": 0,
+			"deny": 0
+		}
+	],
+	"spam": [
+		{
+			"id": -1,
+			"day": 0,
+			"response": false,
+			"primary": "Ooh scary spam!",
+			"secondary": "👻",
+			"tertiary": "Casper",
+			"parent": 0,
+			"allow": -6,
+			"deny": -7
+		},
+		{
+			"id": -2,
+			"day": 0,
+			"response": false,
+			"primary": "I am totally trustworthy",
+			"secondary": "system message",
+			"tertiary": "@dmin",
+			"parent": 0,
+			"allow": -6,
+			"deny": -7
+		},
+		{
+			"id": -3,
+			"day": 0,
+			"response": false,
+			"primary": "Hi its me your brother",
+			"secondary": "hi",
+			"tertiary": "brother",
+			"parent": 0,
+			"allow": -6,
+			"deny": -7
+		},
+		{
+			"id": -4,
+			"day": 0,
+			"response": false,
+			"primary": "Hi I'm a fresh rotisserie chicken in <LOCATION> and I can't wait to feed you!\nCall me xx",
+			"secondary": "Hot Meats In Your Area!",
+			"tertiary": "Deli Dates",
+			"parent": 0,
+			"allow": -6,
+			"deny": -7
+		},
+		{
+			"id": -5,
+			"day": 0,
+			"response": false,
+			"primary": "Visit our site to buy all the batteries you need for low low prices!",
+			"secondary": "Cheap Batteries!!!",
+			"tertiary": "Batteries4You",
+			"parent": 0,
+			"allow": -6,
+			"deny": -7
+		},
+		{
+			"id": -6,
+			"day": 1,
+			"response": true,
+			"primary": "Fraudulent activity was spotted on this account. \nTip: Mark suspicious messages as spam to reduce this warning.",
+			"secondary": "UNAUTHORISED ACCESS DETECTED",
+			"tertiary": "SYSTEM",
+			"parent": 0,
+			"allow": 0,
+			"deny": 0
+		},
+		{
+			"id": -7,
+			"day": 1,
+			"response": true,
+			"primary": "The previous message was correctly identified as spam. Thank you for protecting our communication network!",
+			"secondary": "SPAM ELIMINATED",
+			"tertiary": "SYSTEM",
+			"parent": 0,
+			"allow": 0,
+			"deny": 0
+		}
+	],
+	"changelog": [
+		{
+			"id": 0,
+			"day": 0,
+			"response": false,
+			"primary": "Welcome to the Master's Project Tech Demo! 👋",
+			"secondary": "system",
+			"tertiary": "",
+			"parent": 0,
+			"allow": 0,
+			"deny": 0
+		},
+		{
+			"id": 0,
+			"day": 1,
+			"response": false,
+			"primary": "Day Two reached!",
+			"secondary": "tavi",
+			"tertiary": "",
+			"parent": 0,
+			"allow": 0,
+			"deny": 0
+		},
+		{
+			"id": 0,
+			"day": 2,
+			"response": false,
+			"primary": "You have reached the end of the Master's Project Tech Demo! 🎉",
+			"secondary": "system",
+			"tertiary": "",
+			"parent": 0,
+			"allow": 0,
+			"deny": 0
+		}
+	]
+}

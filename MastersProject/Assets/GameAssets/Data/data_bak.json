@@ -1,0 +1,52 @@
+{
+	"dayCount": 2,
+	"messages": [
+		{
+			"day": 1,
+			"text": "This is a test of the messaging system!",
+			"subject": "test",
+			"allow": {
+				"message": {
+					"day": 2,
+					"text": "Thanks for allowing me!",
+					"subject": "re: test",
+					"allow": null,
+					"deny": null
+				}
+			},
+			"deny": {
+				"message": {
+					"day": 2,
+					"text": "How could you deny me!",
+					"subject": "re: test",
+					"allow": null,
+					"deny": null
+				}
+			}
+		},
+		{
+			"day": 1,
+			"text": "I am another test of the messaging system!",
+			"subject": "test2",
+			"allow": null,
+			"deny": null
+		},
+		{
+			"day": 2,
+			"text": "Welcome to the next day!",
+			"subject": "tavi",
+			"allow": null,
+			"deny": null
+		}
+	],
+	"changelog": [
+		{
+			"day": 1,
+			"text": "Welcome to the Master's Project Test Demo!"
+		},
+		{
+			"day": 2,
+			"text": "Day Two reached!"
+		}
+	]
+}
