@@ -1,0 +1,34 @@
+SUS
+- Alternate positive and negative statements
+- Extreme responses
+- Used 10 questions:
+    - Want to use, unnecessarily complex, easy to use, need to be technical, functions well integrated, inconsistency in the system, quick to learn, cumbersome to use, confident using, needed to learn a lot before able to use
+    
+    - Want to play more, unnecessarily complex, easy to play, need to be technical, functions well integrated, inconsistency in the functions, quick to learn, cumbersome to play, natural to play, took a long time to figure out how to play
+    
+Other Likert Scale:
+Experiencing immersive virtual reality in museums (https://www-sciencedirect-com.libproxy.abertay.ac.uk/science/article/pii/S0378720618310280#sec0050)
+    - education, entertainment, escapism, esthetic, overall VR experience, offline museum visit intention
+    - education, entertainment, escapism (?), esthetic, overall VR experience, romance fraud education
+    Relevant!
+    
+Tourist's intention to visit a destination (https://www.sciencedirect.com/science/article/pii/S0747563215002101#s0060)
+    - technology readiness: optimism, innovativeness; visual appeal, facilitating conditions, perceived usefullness, perceived ease of use, AR attitude, AR usage intention, destination visit intention
+    -
+    Not too relevant
+    
+Measuring experience economy concepts (https://journals.sagepub.com/doi/pdf/10.1177/0047287507304039)
+    - education, esthetics, entertainment, escapism, arousal, memory, overall perceived quality, customer satisfaction
+    - education, esthetics, entertainment, escapism (?), arousal (stimulation), memory, overall perceived quality, customer satisfaction
+    Relevant (related to 1st)
+
+- education, esthetics, entertainment, escapism, overall VR experience (arousal), romance fraud education (memory)
+
+Demographic Information
+Office of national statistics
+
+Age range
+Level of education
+
+From lecture:
+- Rearrange Demographic to last?

@@ -1,0 +1,20 @@
+CHAPTER 1 - TUTORIAL (2 DAYS)
+    1) HELLO WORLD - SYSTEM ADMIN
+        Greetings. You are a local Artificial Intelligence designed to approve or flag messages received on this system. Please place this message into the APPROVE slot to progress to the next day.
+    2) FAILURE - SYSTEM ADMIN
+        System calibration needed. This line of messaging must be placed into the APPROVE slot. Please try again.
+    3) CONGRATULATIONS - SYSTEM ADMIN (RE: 1)
+        System calibration successful. Unlocking access to application "LoveHunt".
+        
+CHAPTER 2 - UNLUCKY IN LOVE (3 DAYS)
+
+
+CHAPTER 3 - FINDING DESTINY (3 DAYS)
+
+CHAPTER 4 - LOVE IS IN DANGER (5 DAYS)
+
+CHAPTER 5 - MONEY DRYING UP (5 DAYS)
+
+CHAPTER 6 - CRACKS IN THE RELATIONSHIP (5 DAYS)
+
+CHAPTER 7 - THE AFTERMATH (2 DAYS)
