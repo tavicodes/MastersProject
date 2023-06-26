@@ -1,15 +1,55 @@
-CHAPTER 1 - TUTORIAL (2 DAYS)
-    1) HELLO WORLD - SYSTEM ADMIN
-        Greetings. You are a local Artificial Intelligence designed to approve or flag messages received on this system. Please place this message into the APPROVE slot to progress to the next day.
-    2) FAILURE - SYSTEM ADMIN
+CHAPTER 1 - TUTORIAL (2-3 DAYS)
+    1-1) HELLO WORLD - SYSTEM ADMIN
+        Greetings. You are a local Artificial Intelligence designed to approve or flag messages received on this system. Each day you will receive a selection of messages sampled from the available applications to approve or deny. Please place this message into the APPROVE slot to progress to the next day.
+    1-1d) FAILURE - SYSTEM ADMIN
         System calibration needed. This line of messaging must be placed into the APPROVE slot. Please try again.
-    3) CONGRATULATIONS - SYSTEM ADMIN (RE: 1)
+    1-1a) CONGRATULATIONS - SYSTEM ADMIN
         System calibration successful. Unlocking access to application "LoveHunt".
         
 CHAPTER 2 - UNLUCKY IN LOVE (3 DAYS)
-
+	1-0r) Last Week - Claire
+		Hiya! I really enjoyed our date last week and I'd love to see you again ❤
+	1-1) Re: Last Week - Michael
+		Hey Claire, you're a nice girl but I don't see us together. Good luck in the future. Michael
+	2-0r) Saw your profile and wanted to say hi - Claire
+		Hiya, you seem like an interesting guy, want to chat? ❤
+	2-1) Re: Saw your profile and wanted to say hi - Alex
+		Would love to chat with you Claire! I saw in your profile that you're a bartender, served anyone I know? 😋
+	2-3) Distance - Alex
+		Sorry Claire, but this long distance is too much if I want to take it to the next step. You're fun to chat with though, so I wouldn't mind staying friends with you!
+	2-0r) Wanna Meet? - Steve
+		U wanna get some drinks wednesday? I wanna get to know u more x
+	2-1) Re: Wanna Meet? - Steve
+		Soz babe, stuff came up so I got 2 cancel x
+	2-1r) Again? - Claire
+		Steve this is like the fourth time you've cancelled on me and I'm this close to blocking you. Honestly I'm happy my phone marked you as spam.
+	2-1d) Re:Again? - Steve
+		Cmon babe u know I don't wanna cancel on u, stuff happens x
+	2-1ar) Again? - Claire
+		Steve this is like the fourth time you've cancelled on me and I'm this close to blocking you.
+	2-1a) Re:Again? - Steve
+		Cmon babe u know I don't wanna cancel on u, stuff happens x
+	3-2) BIG LOVE TIME - NIKO
+		HELLO LUVLY WOMEN!! SEEING UR FACE MADE ME FALL IN LUV WITH U (SEE PIC ATTACHED)
+		WHAT DO U THINK ABOUT SENDING ME A PIC OF U NAKED?? CANT WAIT ❤❤❤
+	3-2ar) RE:BIG LOVE TIME - Claire
+		ew creep get reported
+	3-2a) RE:BIG LOVE TIME - LoveHunt Support
+		Thank you for your report, action has been taken.
+	4-2) Hello Miss - Freddy
+		Wow, I had to do a double take after seeing your profile, you're so pretty! I'd love to get to know you better. Message me and I'll reply instantly. If you want to take it off here, my email is freddupont3676 at fmail dot com. Can't wait to hear from you! 
+	4-2dr) Re: Hello Miss - Claire
+		Sorry, I think my phone marked your message as spam because of the email. I'd rather we chatted here for a little bit first? 
+	4-2d) Re: Hello Miss - Freddy
+		Hi Claire, no worries. Your quick response has really made my day and I am so happy about it. Every time I log onto this site, I see more and more new women messaging me but I don't really like it. I'm looking for one woman only and I think I've found it in you. So if you can help me stop coming to site, I would appreciate it so so much.
+	4-2ar) Re: Hello Miss - Claire
+		Aww thank you! ❤ I'd rather we chatted here for a little bit first though, to get to know each other.
+	4-2a) Re: Hello Miss - Freddy
+		Hi Claire, no worries. Your quick response has really made my day and I am so happy about it. Every time I log onto this site, I see more and more new women messaging me but I don't really like it. I'm looking for one woman only and I think I've found it in you. So if you can help me stop coming to site, I would appreciate it so so much.
 
 CHAPTER 3 - FINDING DESTINY (3 DAYS)
+	1-1) UPDATE - SYSTEM ADMIN
+		New update pushed. Unlocking access to email and text messages.
 
 CHAPTER 4 - LOVE IS IN DANGER (5 DAYS)
 
