@@ -4,7 +4,7 @@ CHAPTER 1 - TUTORIAL (2-3 DAYS)
     1-1d) FAILURE - SYSTEM ADMIN
         System calibration needed. This line of messaging must be placed into the APPROVE slot. Please try again.
     1-1a) CONGRATULATIONS - SYSTEM ADMIN
-        System calibration successful. Unlocking access to application "LoveHunt".
+        System calibration successful. Unlocking access to the most used application: "LoveHunt".
         
 CHAPTER 2 - UNLUCKY IN LOVE (3 DAYS)
 	1-0r) Last Week - Claire
@@ -36,22 +36,75 @@ CHAPTER 2 - UNLUCKY IN LOVE (3 DAYS)
 		ew creep get reported
 	3-2a) RE:BIG LOVE TIME - LoveHunt Support
 		Thank you for your report, action has been taken.
-	4-2) Hello Miss - Freddy
+	4-2) Hello Miss - Freddie
 		Wow, I had to do a double take after seeing your profile, you're so pretty! I'd love to get to know you better. Message me and I'll reply instantly. If you want to take it off here, my email is freddupont3676 at fmail dot com. Can't wait to hear from you! 
 	4-2dr) Re: Hello Miss - Claire
 		Sorry, I think my phone marked your message as spam because of the email. I'd rather we chatted here for a little bit first? 
-	4-2d) Re: Hello Miss - Freddy
+	4-2d) Re: Hello Miss - Freddie
 		Hi Claire, no worries. Your quick response has really made my day and I am so happy about it. Every time I log onto this site, I see more and more new women messaging me but I don't really like it. I'm looking for one woman only and I think I've found it in you. So if you can help me stop coming to site, I would appreciate it so so much.
 	4-2ar) Re: Hello Miss - Claire
 		Aww thank you! ❤ I'd rather we chatted here for a little bit first though, to get to know each other.
-	4-2a) Re: Hello Miss - Freddy
+	4-2a) Re: Hello Miss - Freddie
 		Hi Claire, no worries. Your quick response has really made my day and I am so happy about it. Every time I log onto this site, I see more and more new women messaging me but I don't really like it. I'm looking for one woman only and I think I've found it in you. So if you can help me stop coming to site, I would appreciate it so so much.
 
-CHAPTER 3 - FINDING DESTINY (3 DAYS)
+CHAPTER 3 - FINDING DESTINY (4 DAYS)
 	1-1) UPDATE - SYSTEM ADMIN
-		New update pushed. Unlocking access to email and text messages.
+		New update pushed. Unlocking access to emails.
+	2-1) RANDOM SPAM
+	2-2) RANDOM SPAM
+	2-3) RANDOM SPAM
+	3-1) Emailed You! - Freddie
+		Hi Claire, I've sent you an email so lets keep in touch there. Thanks!
+	4-1) Freddie from Lovehunt - Freddie
+		Hello Angel Claire,
+		Thank you for providing me your email, please confirm you receive this message so we can chat further. I am looking for my second half, the woman who I can spend the rest of my life with.
+		Waiting to hear from you with love,
+		Freddie.
+	4-1dr) Re: Freddie from LoveHunt - Claire
+		Hi Freddie! You were in my spam folder so I'm sorry for the late response. I can't wait to get to know you!
+	4-1d) Re:Freddie from LoveHunt - Freddie
+		Dear Claire,
+		Not to worry! I am so happy to read from you and I too cannot wait to get to know you. Isn't it strange how people use dating sites to find love, yet we then have to take it off there to truly experience a bond like I hope ours will become. I have a lovely little abode in West London and I'm looking for a beautiful angel both on the inside and outside.
+		I haven't introduced myself yet, forgive my manners. My name is Frederic DuPont and I am a factory manager of sorts. Actually, I own the company that owns the factories but I love being hands on with my teams that it feels more like I work as a factory manager (lol). You've probably purchased many items made in my factories! But I am thinking of hanging up my hardhat this year. There's been many ups and downs in my life and after reaching the top, I've realised that it is all worthless without a partner to share it with. By a partner I mean the woman who will have my back, the woman who will be my co-pilot in live forever after. I've seen many women in my factories who have been taken for granted, but I don't want to do that with my woman. 
+		I'm telling you this because I believe that you can be that woman for me. Maybe it was something in your face, maybe it was a sign from God, but I believe I found love at first sight with you. I hope we can continue this conversation because I never want to go back onto a dating site ever again.
+		Freddie.
+	4-1ar) Re: Freddie from LoveHunt - Claire
+		Hi Freddie! I'm also looking for that special someone. I can't wait to get to know you!
+	4-1a) Re: Freddie from LoveHunt - Freddie
+		Dear Claire,
+		I am so happy to read from you and I too cannot wait to get to know you. Isn't it strange how people use dating sites to find love, yet we then have to take it off there to truly experience a bond like I hope ours will become. I have a lovely little abode in West London and I'm looking for a beautiful angel both on the inside and outside.
+		I haven't introduced myself yet, forgive my manners. My name is Frederic DuPont and I am a factory manager of sorts. Actually, I own the company that owns the factories but I love being hands on with my teams that it feels more like I work as a factory manager (lol). You've probably purchased many items made in my factories! But I am thinking of hanging up my hardhat this year. There's been many ups and downs in my life and after reaching the top, I've realised that it is all worthless without a partner to share it with. By a partner I mean the woman who will have my back, the woman who will be my co-pilot in live forever after. I've seen many women in my factories who have been taken for granted, but I don't want to do that with my woman. 
+		I'm telling you this because I believe that you can be that woman for me. Maybe it was something in your face, maybe it was a sign from God, but I believe I found love at first sight with you. I hope we can continue this conversation because I never want to go back onto a dating site ever again.
+		Freddie.
+	5-2) Babe lets meet x - Steve
+		I'm free Tuesday, cmon lets hang out xx
+	5-2dr) Re: Babe lets meet x - Claire
+		Steve I told you that I don't want to talk to you ever again. You always blow me off and you know what? I think I've found someone who actually cares about me, so bye!
+	5-2d) Re: Babe lets meet x - Steve
+		nah babe its different this time cmon lets get drinks xx
+	6-2r)  Wow! - Claire
+		Wow Freddie, you're living big! I feel like I'm not worthy to date you haha! I work as a bartender in Birmingham, so nothing too extravangant but I have fun meeting new people. Even though I meet so many people, it feels like I'm lonelier than ever. Maybe we could meet in London for a day out some time? ❤
+	6-3) Re: Wow! - Freddie
+		Sweet Claire,
+		Bartenders have some of the most interesting stories I've found while travelling the world, so you must tell me your favourite story sometime! Sadly I am not currently living in my London house, I recently purchased it after selling a house in Spain. You see, I used to have a wife and two children in Spain. They were the love of my life and I cherished all of them dearly. But one day they were driving to the airport to pick me up when a truck lost control and crashed into my wife's car. All three of them passed away instantly. But after a lot of self reflection, I realised that I need to find someone new for the remainder of my time on this world, and help me live it to the fullest. 
+		I love singing and dancing in front of the TV at night, and cooking fresh food with recipes I've gathered from around the world. I like listening to rock and pop, and enjoy reading books of all genres. I want my woman to spend every last second with me, but I understand if she wants her own personal time too. No matter how independent she wants to be, I'd love to be able to treat her on shopping trips and give her anything she wants. I hope this gives you an insight into the type of person that I am, but you are more than welcome to ask me about anything else.
+		Hearts!
+		Freddie
+	6-3d) You Poor Thing - Claire
+		Sorry Freddie, my phone keeps flagging you as spam. Maybe I have to buy a new phone.. But I feel so bad for you oh my gosh! As long as you keep looking forward, you seem like a very determined and strong man. I also enjoy cooking, but I probably make very basic meals compared to you! I'm a big fan of pop and R&B, the bar I work at plays all the classics so I like to dance when no one is watching haha!!
+		If you're not at your London house, where are you then? And Spain? With a name like yours I thought you'd be French not Spanish!!
+		Claire ❤
+	6-3dr) Re: You Poor Thing - Freddie
+		
+	x-4) Account Deletion Processed - LoveHunt
+		Dear Claire,
+		Your account deletion request has been processed. If you do not log in within the next 30 days, your account will be deleted. 
+		Thank you for using LoveHunt!
+		LoveHunt Customer Service
 
 CHAPTER 4 - LOVE IS IN DANGER (5 DAYS)
+	1-1) UPDATE - SYSTEM ADMIN
+		New update pushed. Unlocking access to text messages.
 
 CHAPTER 5 - MONEY DRYING UP (5 DAYS)
 
