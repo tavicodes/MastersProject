@@ -125,22 +125,53 @@ CHAPTER 4 - LOVE IS IN DANGER (5 DAYS)
 		Your account deletion request has been processed. If you do not log in within the next 30 days, your account will be deleted. 
 		Thank you for using LoveHunt!
 		LoveHunt Customer Service
-	3-1) I'd Like To Hear Your Voice - Freddie
+	3-0r) I Finally Found Someone!! - Claire
+		Becky I think I found my dream man!! He's so sweet and kind and is always messaging me I love him so much xx
+	3-1) Re: I Finally Found Someone!! - Becky
+		Oh my gosh bestie I'm so happy for you!! We should totally go for a double date sometime so you can introduce me to him xx
+	3-1d) Re: I Finally Found Someone!! - Claire
+		Sorry Becky my phone marked you as spam, I don't know why it's acting up like this. But I totally would do a double date when he comes to the UK. He's actually in China on business at the moment! He's some sort of factory owner, lots of money!! xx
+	3-1dr) Re: I Finally Found Someone!! - Becky
+		Wow! That almost sounds too good to be true! Be careful right Claire? I don't want you getting hurt with these long distance relationships xx
+	3-1a) Re: I Finally Found Someone!! - Claire
+		Oh my gosh yes I totally would do a double date when he comes to the UK. He's actually in China on business at the moment! He's some sort of factory owner, lots of money!! xx
+	3-1ar) Re: I Finally Found Someone!! - Becky
+		Wow! That almost sounds too good to be true! Be careful right Claire? I don't want you getting hurt with these long distance relationships xx
+	4-1) I'd Like To Hear Your Voice - Freddie
 		My sweet Claire,
 		Good morning to you and thank you for your goodnight message. The past few weeks of us writing to each other has been the best I have felt in many years. I hope it keeps growing because I love every second I spend with you. I am at work now but how was your night? We've been speaking for so long but I haven't told you my childhood. I felt like I should correct that today. Have you ever had a French kiss? Well you'll be happy to know that I was born in France (lol) to a French mother and British father. Shortly after my birth my parents took me to London but a few years later my father sadly passed away. Mum moved back to France as she couldn't cope in London, sending me off to live with my Aunt and Uncle in Egypt. It is there where I went to school and grew up properly. My Uncle was a factory worker who loved his job, but while I was a teenager he died in a work accident. From that day onwards I vowed to improve safety in factories so I studied hard to become a factory manager. Along the way I fell in love with business, eventually studying business management at university. 
 		After that I travelled around working for different companies before founding my own, with safety and treatment of workers as the main priority. I fell out of contact with my Aunt but I recently heard that her family had moved to Australia. My previous wife I first met in India and then London before we were married. From marriage till the day she left this world, she was everything in my life and I was everything in hers. Those days are what I'm looking for again, a woman who is everything to me and me to her, a woman who is my world, my solar system, my stars. Our journey has only just begun, but I know from our conversations that this journey will be the greatest in my life. I'd love to hear you, so please call me at +86 174 0363 4700 and I'll be sure to give kisses.
 		With much love,
 		Freddie
-		
-		don't talk about me to friends and family
-		
-		explain current project
+	5-1r) My Friends Love You! - Claire
+		Hi Freddie, I was speaking about you to my friends and they all want to see you!! When can you visit me, I'd love to get drinks with you ❤
+	5-2) Re: My Friends Love You! - Freddie
+		Darling,
+		I'd prefer if you don't speak about me to your friends and family. You see, friends can be very jealous people and it would make me so mad if they said bad things about me. Since I am busy working in China I cannot afford to visit just yet, but please do not take that as a bad thing. Once I am finished with this project we can be together and travel the world together. Until then, I'd prefer if you kept our relationship between us, so no-one has the opportunity to say bad things about me.
+		Thinking of you,
+		Freddie
+	5-2dr) Re: My Friends Love You! - Claire
+		Ugh this phone and marking you as spam.. Freddie, I'm sorry if I made you angry but I do trust my friends. They've been with me and supported me for so long while I was single so I share everything with them. But if it makes you angry then I'll try to keep it a secret. I do want us to be together forever! What are you doing exactly in China? You haven't said much on it yet.
+		Your angel,
+		Claire x
+	5-2d) Re: My Friends Love You! - Freddie
+		Angel Claire,
+		Thank you for keeping our relationship private, that means a whole lot to me. I'll tell you about my work in return. As I've said before, I'm currently in China trying to set up a new factory. This is very long and stressful work, but we've been making good progress. The building that we've acquired needs to be refitted to allow for the goods that we will be manufacturing. After that, we have to make sure its safe for workers and then arrange for transportation of the resources and goods coming to and from the factory. It is long hours, but when I think of you and when I can next speak to you, the long hours melt into nothing. I'd like to call with you again tonight, I miss your sweet voice.
+		Love,
+		Freddie
+	5-2ar) Re: My Friends Love You! - Claire
+		Freddie, I'm sorry if I made you angry but I do trust my friends. They've been with me and supported me for so long while I was single so I share everything with them. But if it makes you angry then I'll try to keep it a secret. I do want us to be together forever! What are you doing exactly in China? You haven't said much on it yet.
+		Your angel,
+		Claire x
+	5-2a) Re: My Friends Love You! - Freddie
+		Angel Claire,
+		Thank you for keeping our relationship private, that means a whole lot to me. I'll tell you about my work in return. As I've said before, I'm currently in China trying to set up a new factory. This is very long and stressful work, but we've been making good progress. The building that we've acquired needs to be refitted to allow for the goods that we will be manufacturing. After that, we have to make sure its safe for workers and then arrange for transportation of the resources and goods coming to and from the factory. It is long hours, but when I think of you and when I can next speak to you, the long hours melt into nothing. I'd like to call with you again tonight, I miss your sweet voice.
+		Love,
+		Freddie
 		
 		talking about visiting after project
 		
 		more project talk
-		
-		tell friends
 		
 		friends raise concern
 		
