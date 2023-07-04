@@ -25,11 +25,11 @@ CHAPTER 2 - I CAN'T FIND A LOVER (3 DAYS)
 		Soz babe, stuff came up so I got 2 cancel x
 	3-1r) Again? - Claire
 		Steve this is like the fourth time you've cancelled on me and I'm this close to blocking you. Honestly I'm happy my phone marked you as spam.
-	3-1d) Re:Again? - Steve
+	3-2d) Re:Again? - Steve
 		Cmon babe u know I don't wanna cancel on u, stuff happens x
 	3-1ar) Again? - Claire
 		Steve this is like the fourth time you've cancelled on me and I'm this close to blocking you.
-	3-1a) Re:Again? - Steve	
+	3-2a) Re:Again? - Steve	
 		Cmon babe u know I don't wanna cancel on u, stuff happens x
 		
 	4-2) BIG LOVE TIME - NIKO
@@ -37,18 +37,18 @@ CHAPTER 2 - I CAN'T FIND A LOVER (3 DAYS)
 		WHAT DO U THINK ABOUT SENDING ME A PIC OF U NAKED?? CANT WAIT ❤❤❤
 	4-2ar) RE:BIG LOVE TIME - Claire
 		ew creep get reported
-	4-2a) RE:BIG LOVE TIME - LoveHunt Support
+	4-4a) RE:BIG LOVE TIME - LoveHunt Support
 		Thank you for your report, action has been taken.
 		
 	5-2) Hello Miss - Freddie
 		Wow, I had to do a double take after seeing your profile, you're so pretty! I'd love to get to know you better. Message me and I'll reply instantly. If you want to take it off here, my email is freddupont3676 at fmail dot com. Can't wait to hear from you! 
 	5-2dr) Re: Hello Miss - Claire
 		Sorry, I think my phone marked your message as spam because of the email. I'd rather we chatted here for a little bit first? 
-	5-2d) Re: Hello Miss - Freddie
+	5-3d) Re: Hello Miss - Freddie
 		Hi Claire, no worries. Your quick response has really made my day and I am so happy about it. Every time I log onto this site, I see more and more new women messaging me but I don't really like it. I'm looking for one woman only and I think I've found it in you. So if you can help me stop coming to site, I would appreciate it so so much.
 	5-2ar) Re: Hello Miss - Claire
 		Aww thank you! ❤ I'd rather we chatted here for a little bit first though, to get to know each other.
-	5-2a) Re: Hello Miss - Freddie
+	5-3a) Re: Hello Miss - Freddie
 		Hi Claire, no worries. Your quick response has really made my day and I am so happy about it. Every time I log onto this site, I see more and more new women messaging me but I don't really like it. I'm looking for one woman only and I think I've found it in you. So if you can help me stop coming to site, I would appreciate it so so much.
 
 CHAPTER 3 - CRAZY FOR YOU (4 DAYS)
@@ -65,12 +65,12 @@ CHAPTER 3 - CRAZY FOR YOU (4 DAYS)
 		
 	4-1) Freddie from Lovehunt - Freddie
 		Hello Angel Claire,
-		Thank you for providing me your email, please confirm you receive this message so we can chat further. I am looking for my second half, the woman who I can spend the rest of my life with.
+		Thank you for providing me your email, please confirm you receive this message so we can chat further. I am looking for my second half, the woman who I can spend the rest of my life with. 😇
 		Waiting to hear from you with love,
 		Freddie.
 	4-1dr) Re: Freddie from LoveHunt - Claire
 		Hi Freddie! You were in my spam folder so I'm sorry for the late response. I can't wait to get to know you!
-	4-1d) Re:Freddie from LoveHunt - Freddie
+	4-2d) Re:Freddie from LoveHunt - Freddie
 		Dear Claire,
 		Not to worry! I am so happy to read from you and I too cannot wait to get to know you. Isn't it strange how people use dating sites to find love, yet we then have to take it off there to truly experience a bond like I hope ours will become. I have a lovely little abode in West London and I'm looking for a beautiful angel both on the inside and outside.
 		I haven't introduced myself yet, forgive my manners. My name is Frederic DuPont and I am a factory manager of sorts. Actually, I own the company that owns the factories but I love being hands on with my teams that it feels more like I work as a factory manager (lol). You've probably purchased many items made in my factories! But I am thinking of hanging up my hardhat this year. There's been many ups and downs in my life and after reaching the top, I've realised that it is all worthless without a partner to share it with. By a partner I mean the woman who will have my back, the woman who will be my co-pilot in live forever after. I've seen many women in my factories who have been taken for granted, but I don't want to do that with my woman. 
@@ -78,7 +78,7 @@ CHAPTER 3 - CRAZY FOR YOU (4 DAYS)
 		Freddie.
 	4-1ar) Re: Freddie from LoveHunt - Claire
 		Hi Freddie! I'm also looking for that special someone. I can't wait to get to know you!
-	4-1a) Re: Freddie from LoveHunt - Freddie
+	4-2a) Re: Freddie from LoveHunt - Freddie
 		Dear Claire,
 		I am so happy to read from you and I too cannot wait to get to know you. Isn't it strange how people use dating sites to find love, yet we then have to take it off there to truly experience a bond like I hope ours will become. I have a lovely little abode in West London and I'm looking for a beautiful angel both on the inside and outside.
 		I haven't introduced myself yet, forgive my manners. My name is Frederic DuPont and I am a factory manager of sorts. Actually, I own the company that owns the factories but I love being hands on with my teams that it feels more like I work as a factory manager (lol). You've probably purchased many items made in my factories! But I am thinking of hanging up my hardhat this year. There's been many ups and downs in my life and after reaching the top, I've realised that it is all worthless without a partner to share it with. By a partner I mean the woman who will have my back, the woman who will be my co-pilot in live forever after. I've seen many women in my factories who have been taken for granted, but I don't want to do that with my woman. 
@@ -89,36 +89,36 @@ CHAPTER 3 - CRAZY FOR YOU (4 DAYS)
 		I'm free Tuesday, cmon lets hang out xx
 	5-2dr) Re: Babe lets meet x - Claire
 		Steve I told you that I don't want to talk to you ever again. You always blow me off and you know what? I think I've found someone who actually cares about me, so bye!
-	5-2d) Re: Babe lets meet x - Steve
+	5-3d) Re: Babe lets meet x - Steve
 		nah babe its different this time cmon lets get drinks xx
 		
-	6-2r)  Wow! - Claire
+	6-0r)  Wow! - Claire
 		Wow Freddie, you're living big! I feel like I'm not worthy to date you haha! I work as a bartender in Birmingham, so nothing too extravangant but I have fun meeting new people. Even though I meet so many people, it feels like I'm lonelier than ever. Maybe we could meet in London for a day out some time? ❤
 	6-3) Re: Wow! - Freddie
 		Sweet Claire,
 		Bartenders have some of the most interesting stories I've found while travelling the world, so you must tell me your favourite story sometime! Sadly I am not currently living in my London house, I recently purchased it after selling a house in Spain. You see, I used to have a wife and two children in Spain. They were the love of my life and I cherished all of them dearly. But one day they were driving to the airport to pick me up when a truck lost control and crashed into my wife's car. All three of them passed away instantly. But after a lot of self reflection, I realised that I need to find someone new for the remainder of my time on this world, and help me live it to the fullest. 
 		I love singing and dancing in front of the TV at night, and cooking fresh food with recipes I've gathered from around the world. I like listening to rock and pop, and enjoy reading books of all genres. I want my woman to spend every last second with me, but I understand if she wants her own personal time too. No matter how independent she wants to be, I'd love to be able to treat her on shopping trips and give her anything she wants. I hope this gives you an insight into the type of person that I am, but you are more than welcome to ask me about anything else.
-		Hearts!
+		Hearts! 💕
 		Freddie
 	6-3d) You Poor Thing - Claire
 		Sorry Freddie, my phone keeps flagging you as spam. Maybe I have to buy a new phone.. But I feel so bad for you oh my gosh! As long as you keep looking forward, you seem like a very determined and strong man. I also enjoy cooking, but I probably make very basic meals compared to you! I'm a big fan of pop and R&B, the bar I work at plays all the classics so I like to dance when no one is watching haha!!
 		If you're not at your London house, where are you then? And Spain? With a name like yours I thought you'd be French not Spanish!!
 		Claire ❤
-	6-3dr) Re: You Poor Thing - Freddie
+	6-4dr) Re: You Poor Thing - Freddie
 		Hello Lovely Angel,
 		Thank you for your compassion and condolences! Life is full of pain but the most important thing is our stubborness to keep getting up and moving on with life. As they say, winners never quit and quitters never win. I know we are both winners, two people who continue to look for love when love has all but abandoned us. Claire, whenever I look at your pictures, I know that I want to be your man. I see a woman who I want to live with, to cherish and support because you are not just beautiful on the outside, but I can see the radiance that shines from within. I think that your radiance will burn away the darkness that eats me up, the darkness that grew over my heart when I lost my wife and kids. Can you prove me right? 
 		I know that a man without a woman is worth nothing and because of that I wish to spend the rest of my life with a woman who I can call my co-pilot, my best friend and my second half. My mother is very old, 87 years old but she still sings and dances and she'd love to see me happy with a woman once again. So I ask you Claire, would you be that woman with me? I don't need a super model, rather I need someone who can tell my emotion just from looking into my eyes, someone who can make me feel like the luckiest man on Earth with just a smile. I believe fate brought us together on that website, and I want to grab fate with both hands and see where it takes me next. Will you grab on with me?
-		Looking forward to your email.
+		Looking forward to your email. 😇
 		Freddie
 	6-3a) You Poor Thing - Claire
 		Freddie I feel so bad for you oh my gosh! As long as you keep looking forward, you seem like a very determined and strong man. I also enjoy cooking, but I probably make very basic meals compared to you! I'm a big fan of pop and R&B, the bar I work at plays all the classics so I like to dance when no one is watching haha!!
 		If you're not at your London house, where are you then? And Spain? With a name like yours I thought you'd be French not Spanish!!
 		Claire ❤
-	6-3ar) Re: You Poor Thing - Freddie
+	6-4ar) Re: You Poor Thing - Freddie
 		Hello Lovely Angel,
 		Thank you for your compassion and condolences! Life is full of pain but the most important thing is our stubborness to keep getting up and moving on with life. As they say, winners never quit and quitters never win. I know we are both winners, two people who continue to look for love when love has all but abandoned us. Claire, whenever I look at your pictures, I know that I want to be your man. I see a woman who I want to live with, to cherish and support because you are not just beautiful on the outside, but I can see the radiance that shines from within. I think that your radiance will burn away the darkness that eats me up, the darkness that grew over my heart when I lost my wife and kids. Can you prove me right? 
 		I know that a man without a woman is worth nothing and because of that I wish to spend the rest of my life with a woman who I can call my co-pilot, my best friend and my second half. My mother is very old, 87 years old but she still sings and dances and she'd love to see me happy with a woman once again. So I ask you Claire, would you be that woman with me? I don't need a super model, rather I need someone who can tell my emotion just from looking into my eyes, someone who can make me feel like the luckiest man on Earth with just a smile. I believe fate brought us together on that website, and I want to grab fate with both hands and see where it takes me next. Will you grab on with me?
-		Looking forward to your email.
+		Looking forward to your email. 😇
 		Freddie
 		
 	7-4) This Month's Statement - Crown Bank
@@ -149,54 +149,54 @@ CHAPTER 4 - LOVE IS IN DANGER (5 DAYS)
 		Oh my gosh bestie I'm so happy for you!! We should totally go for a double date sometime so you can introduce me to him xx
 	4-1d) Re: I Finally Found Someone!! - Claire
 		Sorry Becky my phone marked you as spam, I don't know why it's acting up like this. But I totally would do a double date when he comes to the UK. He's actually in China on business at the moment! He's some sort of factory owner, lots of money!! xx
-	4-1dr) Re: I Finally Found Someone!! - Becky
+	4-2dr) Re: I Finally Found Someone!! - Becky
 		Wow! That almost sounds too good to be true! Be careful right Claire? I don't want you getting hurt with these long distance relationships xx
 	4-1a) Re: I Finally Found Someone!! - Claire
 		Oh my gosh yes I totally would do a double date when he comes to the UK. He's actually in China on business at the moment! He's some sort of factory owner, lots of money!! xx
-	4-1ar) Re: I Finally Found Someone!! - Becky
+	4-2ar) Re: I Finally Found Someone!! - Becky
 		Wow! That almost sounds too good to be true! Be careful right Claire? I don't want you getting hurt with these long distance relationships xx
 		
 	4-4) I Don't Trust Him - Becky
 		Hiya bestie, I think Freddie isn't good for you. I mean, he told you not to talk about him to anyone else? That's not healthy Claire. If I were you, I'd break up with him before you get hurt xx
 	4-4dr) Re: I Don't Trust Him - Claire
 		My phone marked you as spam and I have to agree with it, where did this come from Becky? I finally found a man who actually likes me for me and you come in and try to break it up?? No Becky, I won't break up with him. I love him and he loves me. Just leave me alone Becky.
-	4-4d) Re: I Don't Trust Him - Becky
+	4-5d) Re: I Don't Trust Him - Becky
 		Okay Claire, I understand. I'll always be here for you when you need help though okay? Love you bestie xx
 	4-4ar) Re: I Don't Trust Him - Claire
 		Where did this come from Becky? I finally found a man who actually likes me for me and you come in and try to break it up?? No Becky, I won't break up with him. I love him and he loves me. Just leave me alone Becky.
-	4-4a) Re: I Don't Trust Him - Becky
+	4-5a) Re: I Don't Trust Him - Becky
 		Okay Claire, I understand. I'll always be here for you when you need help though okay? Love you bestie xx
 	
 	5-1) I'd Like To Hear Your Voice - Freddie
 		My sweet Claire,
 		Good morning to you and thank you for your goodnight message. The past few weeks of us writing to each other has been the best I have felt in many years. I hope it keeps growing because I love every second I spend with you. I am at work now but how was your night? We've been speaking for so long but I haven't told you my childhood. I felt like I should correct that today. Have you ever had a French kiss? Well you'll be happy to know that I was born in France (lol) to a French mother and British father. Shortly after my birth my parents took me to London but a few years later my father sadly passed away. Mum moved back to France as she couldn't cope in London, sending me off to live with my Aunt and Uncle in Egypt. It is there where I went to school and grew up properly. My Uncle was a factory worker who loved his job, but while I was a teenager he died in a work accident. From that day onwards I vowed to improve safety in factories so I studied hard to become a factory manager. Along the way I fell in love with business, eventually studying business management at university. 
-		After that I travelled around working for different companies before founding my own, with safety and treatment of workers as the main priority. I fell out of contact with my Aunt but I recently heard that her family had moved to Australia. My previous wife I first met in India and then London before we were married. From marriage till the day she left this world, she was everything in my life and I was everything in hers. Those days are what I'm looking for again, a woman who is everything to me and me to her, a woman who is my world, my solar system, my stars. Our journey has only just begun, but I know from our conversations that this journey will be the greatest in my life. I'd love to hear you, so please call me at +86 174 0363 4700 and I'll be sure to give kisses.
+		After that I travelled around working for different companies before founding my own, with safety and treatment of workers as the main priority. I fell out of contact with my Aunt but I recently heard that her family had moved to Australia. My previous wife I first met in India and then London before we were married. From marriage till the day she left this world, she was everything in my life and I was everything in hers. Those days are what I'm looking for again, a woman who is everything to me and me to her, a woman who is my world, my solar system, my stars. Our journey has only just begun, but I know from our conversations that this journey will be the greatest in my life. I'd love to hear you, so please call me at +86 174 0363 4700 and I'll be sure to give kisses. 💋
 		With much love,
 		Freddie
 		
-	6-1r) My Friends Love You! - Claire
+	6-0r) My Friends Love You! - Claire
 		Hi Freddie, I was speaking about you to my friends and they all want to see you!! When can you visit me, I'd love to get drinks with you ❤
 	6-2) Re: My Friends Love You! - Freddie
 		Darling,
 		I'd prefer if you don't speak about me to your friends and family. You see, friends can be very jealous people and it would make me so mad if they said bad things about me. Since I am busy working in China I cannot afford to visit just yet, but please do not take that as a bad thing. Once I am finished with this project we can be together and travel the world together. Until then, I'd prefer if you kept our relationship between us, so no-one has the opportunity to say bad things about me.
 		Thinking of you,
 		Freddie
-	6-2dr) Re: My Friends Love You! - Claire
+	6-3dr) Re: My Friends Love You! - Claire
 		Ugh this phone and marking you as spam.. Freddie, I'm sorry if I made you angry but I do trust my friends. They've been with me and supported me for so long while I was single so I share everything with them. But if it makes you angry then I'll try to keep it a secret. I do want us to be together forever! What are you doing exactly in China? You haven't said much on it yet.
 		Your angel,
 		Claire x
 	6-2d) Re: My Friends Love You! - Freddie
 		Angel Claire,
-		Thank you for keeping our relationship private, that means a whole lot to me. I'll tell you about my work in return. As I've said before, I'm currently in China trying to set up a new factory. This is very long and stressful work, but we've been making good progress. The building that we've acquired needs to be refitted to allow for the goods that we will be manufacturing. After that, we have to make sure its safe for workers and then arrange for transportation of the resources and goods coming to and from the factory. It is long hours, but when I think of you and when I can next speak to you, the long hours melt into nothing. I'd like to call with you again tonight, I miss your sweet voice.
+		Thank you for keeping our relationship private, that means a whole lot to me. I'll tell you about my work in return. As I've said before, I'm currently in China trying to set up a new factory. This is very long and stressful work, but we've been making good progress. The building that we've acquired needs to be refitted to allow for the goods that we will be manufacturing. After that, we have to make sure its safe for workers and then arrange for transportation of the resources and goods coming to and from the factory. It is long hours, but when I think of you and when I can next speak to you, the long hours melt into nothing. I'd like to call with you again tonight, I miss your sweet voice. 😇
 		Love,
 		Freddie
-	6-2ar) Re: My Friends Love You! - Claire
+	6-3ar) Re: My Friends Love You! - Claire
 		Freddie, I'm sorry if I made you angry but I do trust my friends. They've been with me and supported me for so long while I was single so I share everything with them. But if it makes you angry then I'll try to keep it a secret. I do want us to be together forever! What are you doing exactly in China? You haven't said much on it yet.
 		Your angel,
 		Claire x
 	6-2a) Re: My Friends Love You! - Freddie
 		Angel Claire,
-		Thank you for keeping our relationship private, that means a whole lot to me. I'll tell you about my work in return. As I've said before, I'm currently in China trying to set up a new factory. This is very long and stressful work, but we've been making good progress. The building that we've acquired needs to be refitted to allow for the goods that we will be manufacturing. After that, we have to make sure its safe for workers and then arrange for transportation of the resources and goods coming to and from the factory. It is long hours, but when I think of you and when I can next speak to you, the long hours melt into nothing. I'd like to call with you again tonight, I miss your sweet voice.
+		Thank you for keeping our relationship private, that means a whole lot to me. I'll tell you about my work in return. As I've said before, I'm currently in China trying to set up a new factory. This is very long and stressful work, but we've been making good progress. The building that we've acquired needs to be refitted to allow for the goods that we will be manufacturing. After that, we have to make sure its safe for workers and then arrange for transportation of the resources and goods coming to and from the factory. It is long hours, but when I think of you and when I can next speak to you, the long hours melt into nothing. I'd like to call with you again tonight, I miss your sweet voice. 😇
 		Love,
 		Freddie
 		
@@ -206,25 +206,75 @@ CHAPTER 4 - LOVE IS IN DANGER (5 DAYS)
 		Your warehouse (lol),
 		Freddie
 		
-	8-4r) It's Just The Two Of Us - Claire
+	8-0r) It's Just The Two Of Us - Claire
 		Freddie, I just had an argument with my best friend because she wanted us to break up. I didn't want to speak to her about us but she just came out with it. I stopped talking to her because I don't want anyone to break us up. I love you Freddie, now and forever ❤
 	8-5) Re: It's Just The Two Of Us - Freddie
 		Claire my beloved,
-		Are you okay? I told you that friends can be horrible, jealous people. I'm happy you trust me and love me, I love and trust you too. It's just us two against the world, pilot and co-pilot, heads and tails. Soon we'll be free to live our lives together, you and me. Claire you have lit up my world and I am so happy to have met you. I love you so much and just to show the world how much we love each other, would you marry me?
+		Are you okay? I told you that friends can be horrible, jealous people. I'm happy you trust me and love me, I love and trust you too. It's just us two against the world, pilot and co-pilot, heads and tails. Soon we'll be free to live our lives together, you and me. Claire you have lit up my world and I am so happy to have met you. I love you so much and just to show the world how much we love each other, would you marry me? 🥺
 		Your hopeful husband,
 		Freddie
 
-CHAPTER 5 - LOVE & MONEY (5 DAYS)
+CHAPTER 5 - LOVE & MONEY (6 DAYS)
+	1-1) RANDOM LOVE MESSAGE
+	1-2) RANDOM LOVE MESSAGE
+	1-3) RANDOM LOVE MESSAGE
+	1-4) RANDOM LOVE MESSAGE
+	1-5) RANDOM LOVE MESSAGE
 
-		trouble with the project
+	2-1) RANDOM SPAM
+	2-2) RANDOM SPAM
+	2-3) RANDOM SPAM
+	2-4) RANDOM SPAM
+	2-5) RANDOM SPAM
 
-		asking for money (small)
+	3-1) My Lovely Wife - Freddie
+		Good morning my dear,
+		I hope you slept well after our call last night, I know I did! Work is continuing on the factory, we're almost done. The final step is coating the machinery and walls to help with safety and noise pollution. This is a mandatory step over here (but I'm not sure how much use it is lol) and requires professionals to come and perform the coating. I've budgeted the money for these professionals so it should be fine, but I always get stressed before it happens 😖
+		Your husband,
+		Freddie
+	3-1dr) Re: My Lovely Wife - Claire
+		I missed your message thanks to my phone so afternoon my love! I too enjoyed our call 😊
+		Oh no, I hope it goes well! This isn't your first time doing it so I think you have it under control! I'm here if you need me for support though. Love you!
+	3-1ar) Re: My Lovely Wife - Claire
+		Morning my love! I too enjoyed our call 😊
+		Oh no, I hope it goes well! This isn't your first time doing it so I think you have it under control! I'm here if you need me for support though. Love you!
+	3-2a) Trouble - Freddie
+		My sweet wife,
+		Thank you for your support, but I fear the worst has happened. The workers here have changed a lot since my last job, so I had to use new professionals. But these professionals are greedy, they have a hold on the market and can manipulate the prices to suit them. The coating job was supposed to cost $15k, but they're asking for $25k. I don't know what to do and I feel so sick. I wanted this to be as smooth as possible so I could leave and live with you.
+		Need you dearly,
+		Freddie
+	3-2dr) Re: Trouble - Claire
+		My phone marked you as spam I'm sorry I hope I'm not too late. Can you talk with them to lower the price? That's not acceptable from them!! I hope you can fix this, I want to see you too!
+	3-2ar) Re: Trouble - Claire
+		Freddie that's awful! Can you talk with them to lower the price? That's not acceptable from them!! I hope you can fix this, I want to see you too!
+	3-3) Re: Trouble - Freddie
+		Beautiful Claire,
+		I hate to see you worry so I've been working hard with them. I managed to speak them down to $18,500 but they want it upfront. This means I need an extra $3,500 from somewhere. I have a solid gold watch I can pawn for $2,800 so that leaves $700. I hate to ask you this, I never wanted to but these greedy people have put me into this position. Can you please lend me some money? I promise I'll give it back (and more since we'll be together 😜), I just need it as quickly as possible so I can get this project finished. If you don't have enough, don't worry, I can find someone else to help but I'd appreciate it so much from my wife.
+		Love you so much,
+		Freddie
+	3-3dr) Re: Trouble - Claire
+		You were in my spam, sorry if I'm too late! I can send $700 if it will bring us together faster. I love you and will always support you ❤
+	3-3ar) Re: Trouble - Claire
+		Freddie please don't stress too hard! $700 is nothing if it will bring us together faster. I love you and will always support you ❤
+	3-4) My Angel - Freddie
+		My dearest beautiful angel,
+		I love love love you so much. Thank you for the money, the professionals took it and have begun work. They should be finished in a week. I'm so happy to have you in my life as my wife. Together we are unstoppable!!
+		Your adoring husband,
+		Freddie
 		
-		thanks for sending the money
+	4-0r) Love You - Claire	
+		Hi hubby, just wanted to say I love you. How is your project going? Have the professionals finished yet? Can't wait to see you ❤
+	4-5) Re: Love You - Freddie
+		Sweet wife,
+		Thank you for your email, I love you too. The professionals finished today, with no further issues thankfully. Now it is time for inspection. If the inspection passes, we can open the factory and start making the goods. I haven't told you the financial details of this project but since we are husband and wife, I feel that is important that we have no secrets between us. This factory cost $1.5 million to refit. Thankfully, the government gave me a $1 million grant but they only pay 50% up front, with the final $500k coming after the safety inspection is complete. Therefore, I've invested all of my money into this project, over a million dollars! It's been long and tiring, but I'm finally at the end and I cannot wait to fly to you to begin the next chapter of our lives. ✈
+		Still your warehouse (lol),
+		Freddie
 		
-		talks about the rest of the project and coming to visit
-		
-		another issue appears (bigger)
+	5-6) Safety Inspection - Freddie
+		Angel Claire,
+		I've been sat here for hours thinking about how I can tell you this but what else can I do? You are my other half and need to know. The safety inspectors came shortly after our call ended and initially the tour went well. They saw the coating and the other equipment I had installed for safety regulations. But then they came to the doors and my fears were once again met. According to the inspectors there was a regulation change and the doors that I use are no longer acceptable for factories like this one. Because of this, they were unable to give me the cheque for the final $500k. I feel sick to my stomach with dread. I called the door company asking for a replacement because they sold me unacceptable doors but they're charging me another $12,699 for shipping and replacement fees. I don't know what to do since I hadn't accounted for this. I have nothing left since this was supposed to be the final stage before I got my money. I wish they could just give the money so I can pay the doors, I don't know what else to do.
+		Need your support,
+		Freddie
 
 CHAPTER 6 - NO MONEY NO HONEY (5 DAYS)
 
