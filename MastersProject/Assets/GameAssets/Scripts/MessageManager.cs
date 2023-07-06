@@ -10,6 +10,7 @@ public struct DataObj
 {
     public int id;
     public int day;
+    public int chapter;
     public bool response;
     public string primary;
     public string secondary;
@@ -20,11 +21,18 @@ public struct DataObj
 }
 
 [Serializable]
+public struct SpamCollection
+{
+    public DataObj[] junk;
+    public DataObj[] love;
+}
+
+[Serializable]
 public struct DataCollection
 { 
     public string[] day_names;
     public DataObj[] messages;
-    public DataObj[] spam;
+    public SpamCollection spam;
     public DataObj[] responses;
     public DataObj[] changelog;
 }
@@ -91,16 +99,16 @@ public class MessageManager : MonoBehaviour
             messageDayArray.Add(i, new List<DataObj>());
         }
 
-        foreach (var message in dataColl.messages)
-        {
-            messageArray.Add(message.id, message);
-            if (!message.response) messageDayArray[message.day].Add(message);            
-        }
+        // foreach (var message in dataColl.messages)
+        // {
+        //     messageArray.Add(message.id, message);
+        //     if (!message.response) messageDayArray[message.day].Add(message);            
+        // }
 
-        foreach (var spam in dataColl.spam)
-        {
-            spamArray.Add(spam.id, spam);
-        }
+        // foreach (var spam in dataColl.spam)
+        // {
+        //     spamArray.Add(spam.id, spam);
+        // }
 
         Debug.Log(messageDayArray[0].Count);
     }

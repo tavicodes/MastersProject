@@ -13,18 +13,22 @@ public class EditorManager : MonoBehaviour
     private string fileString;
     private DataCollection dataColl;
     private List<DataObj> messageList;
-    private List<DataObj> spamList;
+    private List<DataObj> junkList;
+    private List<DataObj> loveList;
     private List<DataObj> activeList;
     private List<string> dropdownMessageList;
-    private List<string> dropdownSpamList;
+    private List<string> dropdownJunkList;
+    private List<string> dropdownLoveList;
     private List<string> dropdownActiveList;
-    private bool messageActive;
+    private int chapterActive;
+    private int messageActive;
 
     public TMP_Text textSwitch;
     public TMP_InputField  inputPrimary;
     public TMP_InputField  inputSecondary;
     public TMP_InputField  inputTertiary;
     public TMP_InputField  inputDay;
+    public TMP_InputField  inputChapter;
     public TMP_Dropdown dropdownParent;
     public TMP_Dropdown dropdownAllow;
     public TMP_Dropdown dropdownDeny;
@@ -34,26 +38,36 @@ public class EditorManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        Application.targetFrameRate = 5;
+
         dataColl = JsonUtility.FromJson<DataCollection>(dataFile.ToString());
 
         messageList = new List<DataObj>(){new DataObj(){primary = "empty"}};
-        spamList = new List<DataObj>(){new DataObj(){primary = "empty"}};
+        junkList = new List<DataObj>(){new DataObj(){primary = "empty"}};
+        loveList = new List<DataObj>(){new DataObj(){primary = "empty"}};
         dropdownMessageList = new List<string>(){"empty"};
-        dropdownSpamList = new List<string>(){"empty"};
+        dropdownJunkList = new List<string>(){"empty"};
+        dropdownLoveList = new List<string>(){"empty"};
+
         foreach (var message in dataColl.messages)
         {
             messageList.Add(message);
-            dropdownMessageList.Add(message.primary.Length > 65 ? message.primary.Substring(0, 40) : message.primary);
+            dropdownMessageList.Add(message.secondary.Length > 30 ? message.secondary.Substring(0, 30) : message.secondary);
         }
-        foreach (var message in dataColl.spam)
+        foreach (var message in dataColl.spam.junk)
         {
-            spamList.Add(message);
-            dropdownSpamList.Add(message.primary.Length > 65 ? message.primary.Substring(0, 40) : message.primary);
+            junkList.Add(message);
+            dropdownJunkList.Add(message.secondary.Length > 30 ? message.secondary.Substring(0, 30) : message.secondary);
+        }
+        foreach (var message in dataColl.spam.love)
+        {
+            loveList.Add(message);
+            dropdownLoveList.Add(message.secondary.Length > 30 ? message.secondary.Substring(0, 30) : message.secondary);
         }
 
         activeList = messageList;
         dropdownActiveList = dropdownMessageList;
-        messageActive = true;
+        messageActive = 0;
         textSwitch.text = "Messages";
         FillDropdowns(1);
     }
@@ -74,16 +88,36 @@ public class EditorManager : MonoBehaviour
 
     public void FlipActive()
     {
-        messageActive = !messageActive;
-        activeList = messageActive ? messageList : spamList;
-        dropdownActiveList = messageActive ? dropdownMessageList : dropdownSpamList;
-        textSwitch.text = messageActive ? "Messages" : "Spam";
+        messageActive++;
+        switch (messageActive)
+        {
+            default:
+                messageActive = 0;
+                goto case 0;
+            case 0:
+                activeList = messageList;
+                dropdownActiveList = dropdownMessageList;
+                textSwitch.text = "Messages";
+                break;
+            case 1:
+                activeList = junkList;
+                dropdownActiveList = dropdownJunkList;
+                textSwitch.text = "Junk";
+                break;
+            case 2:
+                activeList = loveList;
+                dropdownActiveList = dropdownLoveList;
+                textSwitch.text = "Love";
+                break;
+        }
+        
         FillDropdowns(1);
     }
 
     public void FillValues()
     {
         inputDay.text = activeList[dropdownSelect.value].day.ToString();
+        inputChapter.text = activeList[dropdownSelect.value].chapter.ToString();
         inputPrimary.text = activeList[dropdownSelect.value].primary;
         inputSecondary.text = activeList[dropdownSelect.value].secondary;
         inputTertiary.text = activeList[dropdownSelect.value].tertiary;
@@ -95,8 +129,10 @@ public class EditorManager : MonoBehaviour
 
     public void FillFromParent()
     {
-        inputSecondary.text = activeList[dropdownParent.value].secondary;
-        inputTertiary.text = activeList[dropdownParent.value].tertiary;
+        if (dropdownActiveList[dropdownParent.value] == "empty") return;
+        inputChapter.text = activeList[dropdownParent.value].chapter.ToString();
+        //inputSecondary.text = "Re: " + activeList[dropdownParent.value].secondary;
+        //inputTertiary.text = activeList[dropdownParent.value].tertiary;
     }
 
     public void AddValue()
@@ -111,11 +147,11 @@ public class EditorManager : MonoBehaviour
     public void Submit()
     {
         if (dropdownSelect.value == 0) return;
-        dropdownActiveList[dropdownSelect.value] = inputPrimary.text.Length > 40 ? inputPrimary.text.Substring(0, 40) : inputPrimary.text;
+        dropdownActiveList[dropdownSelect.value] = inputSecondary.text.Length > 30 ? inputSecondary.text.Substring(0, 30) : inputSecondary.text;
         activeList[dropdownSelect.value] = new DataObj() {
-            id = dropdownSelect.value * (messageActive ? 1 : -1), day = Convert.ToInt32(inputDay.text), response = toggleResponse.isOn,
+            id = dropdownSelect.value + (messageActive * 100), day = Convert.ToInt32(inputDay.text), chapter = Convert.ToInt32(inputChapter.text), response = toggleResponse.isOn,
             primary = inputPrimary.text, secondary = inputSecondary.text, tertiary = inputTertiary.text,
-            parent = dropdownParent.value * (messageActive ? 1 : -1), allow = dropdownAllow.value * (messageActive ? 1 : -1), deny = dropdownDeny.value * (messageActive ? 1 : -1)
+            parent = dropdownParent.value + (messageActive * 100), allow = dropdownAllow.value + (messageActive * 100), deny = dropdownDeny.value + (messageActive * 100)
         };
 
         FillDropdowns(dropdownSelect.value);
@@ -126,9 +162,12 @@ public class EditorManager : MonoBehaviour
         DataObj[] tempArr = new DataObj[messageList.Count - 1];
         messageList.CopyTo(1,tempArr, 0, messageList.Count - 1);
         dataColl.messages = tempArr;
-        tempArr = new DataObj[spamList.Count - 1];
-        spamList.CopyTo(1,tempArr, 0, spamList.Count - 1);
-        dataColl.spam = tempArr;
+        tempArr = new DataObj[junkList.Count - 1];
+        junkList.CopyTo(1,tempArr, 0, junkList.Count - 1);
+        dataColl.spam.junk = tempArr;
+        tempArr = new DataObj[loveList.Count - 1];
+        loveList.CopyTo(1,tempArr, 0, loveList.Count - 1);
+        dataColl.spam.love = tempArr;
         File.WriteAllText("Assets/GameAssets/Data/data_new.json", JsonUtility.ToJson(dataColl));
     }
 }
