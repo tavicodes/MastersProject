@@ -86,6 +86,13 @@ public class EditorManager : MonoBehaviour
         FillValues();
     }
 
+    public void SwitchMessage(bool positive)
+    {
+        Submit();
+        dropdownSelect.value = Math.Clamp(dropdownSelect.value + (positive ? 1 : -1), 1, dropdownActiveList.Count);
+        FillValues();
+    }
+
     public void FlipActive()
     {
         messageActive++;
