@@ -18,7 +18,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &4000013784471622
 Transform:
   m_ObjectHideFlags: 0
@@ -138,6 +138,7 @@ Transform:
   - {fileID: 8957776239543123876}
   - {fileID: 1100625526896845996}
   - {fileID: 5240300143500550070}
+  - {fileID: 5023347522499330154}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -942,3 +943,93 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_renderer: {fileID: 5129129524605565827}
   m_maskType: 0
+--- !u!1001 &7581049917368132468
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4000011633437892}
+    m_Modifications:
+    - target: {fileID: 2866576225766373796, guid: ee5e415af657ca64391507746a501bb4,
+        type: 3}
+      propertyPath: m_Name
+      value: FloppyDisk
+      objectReference: {fileID: 0}
+    - target: {fileID: 3207635298377933598, guid: ee5e415af657ca64391507746a501bb4,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3207635298377933598, guid: ee5e415af657ca64391507746a501bb4,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.028
+      objectReference: {fileID: 0}
+    - target: {fileID: 3207635298377933598, guid: ee5e415af657ca64391507746a501bb4,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.028
+      objectReference: {fileID: 0}
+    - target: {fileID: 3207635298377933598, guid: ee5e415af657ca64391507746a501bb4,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.028
+      objectReference: {fileID: 0}
+    - target: {fileID: 3207635298377933598, guid: ee5e415af657ca64391507746a501bb4,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3207635298377933598, guid: ee5e415af657ca64391507746a501bb4,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3207635298377933598, guid: ee5e415af657ca64391507746a501bb4,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3207635298377933598, guid: ee5e415af657ca64391507746a501bb4,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.49999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 3207635298377933598, guid: ee5e415af657ca64391507746a501bb4,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.50000006
+      objectReference: {fileID: 0}
+    - target: {fileID: 3207635298377933598, guid: ee5e415af657ca64391507746a501bb4,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.5000001
+      objectReference: {fileID: 0}
+    - target: {fileID: 3207635298377933598, guid: ee5e415af657ca64391507746a501bb4,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.49999988
+      objectReference: {fileID: 0}
+    - target: {fileID: 3207635298377933598, guid: ee5e415af657ca64391507746a501bb4,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3207635298377933598, guid: ee5e415af657ca64391507746a501bb4,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 3207635298377933598, guid: ee5e415af657ca64391507746a501bb4,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 90
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ee5e415af657ca64391507746a501bb4, type: 3}
+--- !u!4 &5023347522499330154 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3207635298377933598, guid: ee5e415af657ca64391507746a501bb4,
+    type: 3}
+  m_PrefabInstance: {fileID: 7581049917368132468}
+  m_PrefabAsset: {fileID: 0}
