@@ -14,6 +14,8 @@ Canova, G., Volkamer, M., Bergmann, C. and Reinheimer, B., 2015a, February. NoPh
 
 Canova, G., Volkamer, M., Bergmann, C., and Berens, B., 2015b. NoPhish App Evaluation: Lab and Retention Study. 10.14722/usec.2015.23009. 
 
+Chang, J. (2008) ‘An Analysis of Advance Fee Fraud on the Internet’, Journal of Financial Crime, 15(1) 71-81
+
 Checa, D. and Bustillo, A., 2020. A review of immersive virtual reality serious games to enhance learning and training. Multimedia Tools and Applications, 79, pp.5501-5527.https://doi.org/10.1007/s11042-019-08348-9
 
 Chen,S. and Michael, D. (2005) Serious Games: Games That Educate, Train, and Inform. Course Technology.
@@ -36,7 +38,11 @@ Seo, J.H., Bruner, M., Payne, A., Gober, N., McMullen, D. and Chakravorty, D.K.,
 
 Tinder (2020) Tinder Introduces Safety-Focused Updates. Available at: https://www.tinderpressroom.com/tinder-introduces-safety-updates (Accessed: 13 July 2023)
 
+Wall, D., 2007. Cybercrime: The transformation of crime in the information age (Vol. 4). Polity.
+
 Whitty, M. (2013) ‘Anatomy of the online dating romance scam’, Security Journal, 28(4), pp. 1-13. doi:10.1057/sj.2012.57.
+
+Whitty, M.T., 2018. Do you love me? Psychological characteristics of romance scam victims. Cyberpsychology, behavior, and social networking, 21(2), pp.105-109.
 
 Whitty, M., and Buchanan, T. (2012). The online romance scam: A serious cybercrime. Cyberpsychology, Behavior, and Social Networking, 15(3), pp. 181–183. https://doi.org/10.1089/cyber.2011.0352
 
