@@ -9,6 +9,7 @@ public class MessageInteractable : MonoBehaviour
     private TMP_Text generalText;
     private TMP_Text sideTopText;
     private TMP_Text sideBotText;
+    private TMP_Text bottomText;
     private Vector3 originalPosition;
     private Quaternion originalRotation;
     private Vector3 oldPosition;
@@ -17,6 +18,7 @@ public class MessageInteractable : MonoBehaviour
     private DataObj messageData;
     private string messageText;
     private string subjectText;
+    private string senderText;
     public int lineLength;
 
     public GameObject ghostPrefab;
@@ -37,10 +39,12 @@ public class MessageInteractable : MonoBehaviour
         generalText = textMeshs[0];
         sideTopText = textMeshs[1];
         sideBotText = textMeshs[2];
+        bottomText = textMeshs[3];
 
         generalText.text = "";
         sideTopText.text = "";
         sideBotText.text = "";
+        bottomText.text = "";
 
         originalPosition = transform.position;
         originalRotation = transform.rotation;
@@ -88,11 +92,11 @@ public class MessageInteractable : MonoBehaviour
             tempObj.GetComponent<MessageInteractable>().SetGhostData(tempParent);
 
             parentID = tempParent.parent;
-            Debug.Log(parentID);
+            //Debug.Log(parentID);
             offset++;
         }
 
-        Debug.Log("Offset: " + offset.ToString());
+        //Debug.Log("Offset: " + offset.ToString());
 
         ghostObj.SetActive(false);
     }
@@ -102,8 +106,10 @@ public class MessageInteractable : MonoBehaviour
         messageData = newMessage;
         messageText = messageData.primary;
         subjectText = messageData.secondary;
+        senderText = messageData.tertiary;
 
         generalText.text = subjectText;
+        bottomText.text = senderText;
 
         if (messageData.parent != 0) SpawnGhostChild(messageData.parent);
     }
@@ -113,8 +119,10 @@ public class MessageInteractable : MonoBehaviour
         messageData = newMessage;
         messageText = messageData.primary;
         subjectText = messageData.secondary;
+        senderText = messageData.tertiary;
 
         generalText.text = string.Format("<size=70%>{0}", subjectText);
+        bottomText.text = senderText;
     }
 
     //-------------------------------------------------
@@ -192,9 +200,12 @@ public class MessageInteractable : MonoBehaviour
     //-------------------------------------------------
     private void OnAttachedToHand( Hand hand )
     {
-        if (ghostObj == null) Debug.Log("attached");
-        generalText.text = messageText;
+        //if (ghostObj == null) Debug.Log("attached");
+        generalText.text = string.Format("<size=70%>{0}", messageText);
         sideTopText.text = subjectText;
+        sideBotText.text = senderText;
+        bottomText.text = "";
+
         isGrabbed = true;
         if (ghostObj != null) ghostObj.SetActive(true);
         else 
@@ -219,6 +230,8 @@ public class MessageInteractable : MonoBehaviour
         else
         {
             sideTopText.text = "";
+            sideBotText.text = "";
+            bottomText.text = senderText;
             isGrabbed = false;
             if (ghostObj != null) 
             {
@@ -278,6 +291,8 @@ public class MessageInteractable : MonoBehaviour
         {
             transform.position = originalPosition;
             transform.rotation = originalRotation;
+            GetComponent<Rigidbody>().velocity = Vector3.zero;
+            GetComponent<Rigidbody>().angularVelocity = Vector3.zero;
         }
     }
     

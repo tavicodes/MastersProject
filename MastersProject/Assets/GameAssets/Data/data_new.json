@@ -1,5 +1,34 @@
 {
-	"day_names": [],
+	"chapter_info": {
+		"chapter_count": 7,
+		"day_length": [
+			1,
+			3,
+			4,
+			5,
+			6,
+			5,
+			4
+		],
+		"spam_count": [
+			false,
+			false,
+			true,
+			true,
+			true,
+			true,
+			false
+		],
+		"love_count": [
+			false,
+			false,
+			false,
+			true,
+			true,
+			true,
+			false
+		]
+	},
 	"messages": [
 		{
 			"id": 1,
@@ -993,7 +1022,7 @@
 			"primary": "Thank you so much for agreeing to send money. I knew that I could count on my beautiful and caring wife to help me out. This factory has been such a stressful drain on my time here, I cannot wait for it to be finished and for us to begin our new lives together. I will speak to the door company today, if you could send the money I would be so thankful. In fact, I think I'll book my plane tickets today too. I'll speak with my travel agent, I can't wait to see you!! 😁\r\nLove love love you!!\r\nFreddie",
 			"secondary": "Re: More Updates",
 			"tertiary": "Freddie",
-			"parent": 83,
+			"parent": 82,
 			"allow": 0,
 			"deny": 0
 		},
@@ -1029,7 +1058,7 @@
 			"primary": "My Stunning Wife,\r\nYou truly are an angel. You gave me the full $5,299 thank you so so so much! I gave it to the door company and they said it'll be done before the end of the week. Then the safety inspectors can give me the cheque and I'll be able to travel to see you next week! I cannot wait, you have lit up my life and saved me so many times. I love you and I will love you forever. Thank you so so so much ❤❤❤\r\nForever grateful,\r\nFreddie",
 			"secondary": "Re: Sending The Money",
 			"tertiary": "Freddie",
-			"parent": 86,
+			"parent": 85,
 			"allow": 0,
 			"deny": 0
 		},
@@ -1049,7 +1078,7 @@
 			"id": 88,
 			"day": 3,
 			"chapter": 5,
-			"response": true,
+			"response": false,
 			"primary": "Claire,\r\nI've sent the money, please be safe. Looking forward to our weekend visit too!\r\nLove,\r\nMum",
 			"secondary": "Re: Unexpected Charge, Need Help",
 			"tertiary": "Mum",
@@ -1173,7 +1202,7 @@
 			"primary": "Freddie,\r\nI wish I could help but I have no money. I'm in my overdraft and I can't pull out any more money even though I want to help. I'm so sorry, you'll have to figure this all out yourself. Can Brice help anymore? I love you a lot and I really really want to help, but I can't.\r\nLove,\r\nClaire",
 			"secondary": "Re: Delay",
 			"tertiary": "Claire",
-			"parent": 59,
+			"parent": 95,
 			"allow": 0,
 			"deny": 0
 		},
@@ -1313,7 +1342,7 @@
 	"spam": {
 		"junk": [
 			{
-				"id": 0,
+				"id": -1,
 				"day": 0,
 				"chapter": 0,
 				"response": false,
@@ -1325,7 +1354,7 @@
 				"deny": 2
 			},
 			{
-				"id": 0,
+				"id": -2,
 				"day": 0,
 				"chapter": 0,
 				"response": false,
@@ -1337,7 +1366,7 @@
 				"deny": 0
 			},
 			{
-				"id": 0,
+				"id": -3,
 				"day": 0,
 				"chapter": 0,
 				"response": false,
@@ -1349,7 +1378,7 @@
 				"deny": 0
 			},
 			{
-				"id": 0,
+				"id": -4,
 				"day": 0,
 				"chapter": 0,
 				"response": false,
@@ -1361,7 +1390,7 @@
 				"deny": 0
 			},
 			{
-				"id": 0,
+				"id": -5,
 				"day": 0,
 				"chapter": 0,
 				"response": false,
@@ -1373,7 +1402,7 @@
 				"deny": 0
 			},
 			{
-				"id": 0,
+				"id": -6,
 				"day": 0,
 				"chapter": 0,
 				"response": false,
@@ -1385,7 +1414,7 @@
 				"deny": 0
 			},
 			{
-				"id": 0,
+				"id": -7,
 				"day": 0,
 				"chapter": 0,
 				"response": false,
@@ -1397,7 +1426,7 @@
 				"deny": 2
 			},
 			{
-				"id": 0,
+				"id": -8,
 				"day": 0,
 				"chapter": 0,
 				"response": false,
@@ -1409,7 +1438,7 @@
 				"deny": 0
 			},
 			{
-				"id": 0,
+				"id": -9,
 				"day": 0,
 				"chapter": 0,
 				"response": false,
@@ -1421,7 +1450,7 @@
 				"deny": 0
 			},
 			{
-				"id": 0,
+				"id": -10,
 				"day": 0,
 				"chapter": 0,
 				"response": false,
@@ -1433,7 +1462,7 @@
 				"deny": 0
 			},
 			{
-				"id": 0,
+				"id": -11,
 				"day": 0,
 				"chapter": 0,
 				"response": false,
@@ -1445,7 +1474,7 @@
 				"deny": 2
 			},
 			{
-				"id": 0,
+				"id": -12,
 				"day": 0,
 				"chapter": 0,
 				"response": false,
@@ -1457,7 +1486,7 @@
 				"deny": 0
 			},
 			{
-				"id": 0,
+				"id": -13,
 				"day": 0,
 				"chapter": 0,
 				"response": false,
@@ -1469,7 +1498,7 @@
 				"deny": 0
 			},
 			{
-				"id": 0,
+				"id": -14,
 				"day": 0,
 				"chapter": 0,
 				"response": false,
@@ -1481,7 +1510,7 @@
 				"deny": 0
 			},
 			{
-				"id": 0,
+				"id": -15,
 				"day": 0,
 				"chapter": 0,
 				"response": false,
@@ -1493,7 +1522,7 @@
 				"deny": 2
 			},
 			{
-				"id": 0,
+				"id": -16,
 				"day": 0,
 				"chapter": 0,
 				"response": false,
@@ -1505,7 +1534,7 @@
 				"deny": 0
 			},
 			{
-				"id": 0,
+				"id": -17,
 				"day": 0,
 				"chapter": 0,
 				"response": false,
@@ -1517,7 +1546,7 @@
 				"deny": 0
 			},
 			{
-				"id": 0,
+				"id": -18,
 				"day": 0,
 				"chapter": 0,
 				"response": false,
@@ -1529,7 +1558,7 @@
 				"deny": 0
 			},
 			{
-				"id": 0,
+				"id": -19,
 				"day": 0,
 				"chapter": 0,
 				"response": false,
@@ -1541,7 +1570,7 @@
 				"deny": 2
 			},
 			{
-				"id": 0,
+				"id": -20,
 				"day": 0,
 				"chapter": 0,
 				"response": false,
@@ -1552,7 +1581,7 @@
 				"allow": 1,
 				"deny": 0
 			}
-		],		
+		],
 		"responses": [
 			{
 				"id": 1,
@@ -1573,192 +1602,131 @@
 				"response": true,
 				"primary": "We're sad to see you go! If this was a mistake, click here to resubscribe.",
 				"secondary": "Unsubscription Confirmed",
-				"tertiary": "NULL",
 				"parent": 0,
 				"allow": 0,
 				"deny": 0
 			}
-		]
+		],
 		"love": [
 			{
-				"id": 0,
-				"day": 0,
-				"chapter": 0,
 				"response": false,
-				"primary": "My Dearest Claire, Your presence in my life fills it with love and joy. With you, I feel complete. Cherishing every moment we share, I'm forever grateful for your love. Yours always, Freddie",
-				"secondary": "My Love for You, Claire",
-				"tertiary": "Freddie",
-				"parent": 0,
-				"allow": 0,
-				"deny": 0
+				"primary": "My Dearest Claire,\n\nYou're the sunshine in my life ☀️, a melody in my heart 🎶. With you, every day is a serenade, and I'm singing love songs for you. You're the inspiration behind every note and lyric, and I'll continue to compose our love story together.\n\nYours always in song,\nFreddie",
+				"secondary": "A Melody of Love",
+				"tertiary": "Freddie"
 			},
 			{
-				"id": 0,
-				"day": 0,
-				"chapter": 0,
 				"response": false,
-				"primary": "To My Dearest Claire, Your smile brightens my world, your touch warms my soul. With you, life is a beautiful journey. Forever yours, Freddie",
-				"secondary": "To My Dearest Claire, With Love",
-				"tertiary": "Freddie",
-				"parent": 0,
-				"allow": 0,
-				"deny": 0
+				"primary": "To My Precious Claire,\n\nIn your eyes, I found galaxies and stars ✨, a universe of love and wonder. You're my cosmic escape, my journey to infinity. Together, we'll explore celestial love and dance among the constellations.\n\nForever yours in the cosmos,\nFreddie",
+				"secondary": "Stargazing Love",
+				"tertiary": "Freddie"
 			},
 			{
-				"id": 0,
-				"day": 0,
-				"chapter": 0,
 				"response": false,
-				"primary": "My Dearest Claire, You've become my pillar of strength and inspiration. I promise to protect and cherish your love. Forever yours, Freddie",
-				"secondary": "Forever Yours, Claire",
-				"tertiary": "Freddie",
-				"parent": 0,
-				"allow": 0,
-				"deny": 0
+				"primary": "Dear Claire,\n\nYou are the verse in my heart, the rhythm in my soul. Like poetry, your love flows gracefully, filling the empty spaces with beauty and emotion. You're the muse behind every line, and I'll etch our love story in the pages of time.\n\nYours in rhyme,\nFreddie",
+				"secondary": "Poetic Love",
+				"tertiary": "Freddie"
 			},
 			{
-				"id": 0,
-				"day": 0,
-				"chapter": 0,
 				"response": false,
-				"primary": "My Darling Claire, Your love is a treasure I hold dear. With you, life feels complete. Love always, Freddie",
-				"secondary": "A Love Like No Other",
-				"tertiary": "Freddie",
-				"parent": 0,
-				"allow": 0,
-				"deny": 0
+				"primary": "My Sweet Claire,\n\nYou're a masterpiece in my eyes 🌟, a canvas of colors and hues. With each brushstroke, I paint the portrait of our love, capturing every moment we share. You're the art that adorns my life, and I'll cherish you like a timeless masterpiece.\n\nWith all my love,\nFreddie",
+				"secondary": "A Portrait of Love",
+				"tertiary": "Freddie"
 			},
 			{
-				"id": 0,
-				"day": 0,
-				"chapter": 0,
 				"response": false,
-				"primary": "My Sweet Claire, Your laughter is music to my ears. I cherish every moment with you. With all my love, Freddie",
-				"secondary": "You Are My Everything, Claire",
-				"tertiary": "Freddie",
-				"parent": 0,
-				"allow": 0,
-				"deny": 0
+				"primary": "To My Darling Claire,\n\nReasons I love you: Your laughter is a melody that brings joy to my heart 😄. Your touch is a gentle breeze that caresses my soul. Your kindness is a warm embrace that comforts me. Your love is the compass that guides me home.\n\nForever yours,\nFreddie",
+				"secondary": "Reasons Why I Love You",
+				"tertiary": "Freddie"
 			},
 			{
-				"id": 0,
-				"day": 0,
-				"chapter": 0,
 				"response": false,
-				"primary": "For My Beloved Claire, You are the beating heart of my existence. With you, I've found a love that knows no bounds. Yours devotedly, Freddie",
-				"secondary": "For My Beloved Claire",
-				"tertiary": "Freddie",
-				"parent": 0,
-				"allow": 0,
-				"deny": 0
+				"primary": "My Dearest Claire,\n\nYou're the rhythm in my heartbeat, the symphony in my veins. Our love is a grand orchestra, where every instrument plays in harmony 🎼. With you, life is a beautiful concert, and I'll be your conductor, leading us to an eternal encore.\n\nAlways in harmony,\nFreddie",
+				"secondary": "An Eternal Concert of Love",
+				"tertiary": "Freddie"
 			},
 			{
-				"id": 0,
-				"day": 0,
-				"chapter": 0,
 				"response": false,
-				"primary": "My Love, My Claire, My heart knows no limits for you. You're my guiding star through the darkest nights. Forever yours, Freddie",
-				"secondary": "Guided by Your Love, Claire",
-				"tertiary": "Freddie",
-				"parent": 0,
-				"allow": 0,
-				"deny": 0
+				"primary": "Dear Claire,\n\nIn the dance of love, you are my perfect partner. With each step, our hearts beat as one, and we move to the rhythm of passion 💃. You're the music in my soul, and I'll keep dancing with you until the stars fade away.\n\nYours on the dancefloor,\nFreddie",
+				"secondary": "Dancing Through Love",
+				"tertiary": "Freddie"
 			},
 			{
-				"id": 0,
-				"day": 0,
-				"chapter": 0,
 				"response": false,
-				"primary": "My Dearest Claire, In your embrace, I find solace and comfort. Your love is my sanctuary. With all my love, Freddie",
-				"secondary": "Embraced by Your Love, Claire",
-				"tertiary": "Freddie",
-				"parent": 0,
-				"allow": 0,
-				"deny": 0
+				"primary": "My Beloved Claire,\n\nLike a garden in bloom 🌺, your love colors my life with beauty and fragrance. Each moment spent with you is a bloom of happiness, and I'll water our love with care, ensuring it flourishes forever.\n\nWith all my love,\nFreddie",
+				"secondary": "Love Blooms",
+				"tertiary": "Freddie"
 			},
 			{
-				"id": 0,
-				"day": 0,
-				"chapter": 0,
 				"response": false,
-				"primary": "To My Beloved Claire, Your love is a melody that echoes in my heart. Each note carries the essence of our bond. Forever and always, Freddie",
-				"secondary": "Love's Melody, Claire",
-				"tertiary": "Freddie",
-				"parent": 0,
-				"allow": 0,
-				"deny": 0
+				"primary": "To My Precious Claire,\n\nYou're the poetry in my heart, the verses that never end. With each word, I express my devotion, admiration, and affection. You're the inspiration behind every line, and I'll keep writing our love story until eternity.\n\nYours in verse,\nFreddie",
+				"secondary": "Love in Verses",
+				"tertiary": "Freddie"
 			},
 			{
-				"id": 0,
-				"day": 0,
-				"chapter": 0,
 				"response": false,
-				"primary": "My Sweetest Claire, You are the poetry that dances in my soul. I promise to love you with all my heart. Forever yours, Freddie",
-				"secondary": "Colors of Love, Claire",
-				"tertiary": "Freddie",
-				"parent": 0,
-				"allow": 0,
-				"deny": 0
+				"primary": "Dear Claire,\n\nReasons I love you: Your smile is the sun that brightens my days ☺️. Your laughter is the music that fills my heart. Your touch is the warmth that comforts my soul. Your love is the reason I believe in magic.\n\nForever yours,\nFreddie",
+				"secondary": "Reasons Why I Adore You",
+				"tertiary": "Freddie"
 			},
 			{
-				"id": 0,
-				"day": 0,
-				"chapter": 0,
 				"response": false,
-				"primary": "My Beloved Claire, With you, love flows like a river, unstoppable and boundless. You're the key to my happiness. Love and devotion, Freddie",
-				"secondary": "Unstoppable Love, Claire",
-				"tertiary": "Freddie",
-				"parent": 0,
-				"allow": 0,
-				"deny": 0
+				"primary": "My Sweet Claire,\n\nLike a gentle river, your love flows through my life, calming my every fear. With you, I sail on the tides of passion, and the shores of our love are where I belong. You're my safe harbor, and I'll anchor my heart to you.\n\nForever and always,\nFreddie",
+				"secondary": "Love's Flowing River",
+				"tertiary": "Freddie"
 			},
 			{
-				"id": 0,
-				"day": 0,
-				"chapter": 0,
 				"response": false,
-				"primary": "My Dearest Claire, Words can't express my feelings for you. You're the heartbeat of my existence. With all my love, Freddie",
-				"secondary": "Eternal Love for You, Claire",
-				"tertiary": "Freddie",
-				"parent": 0,
-				"allow": 0,
-				"deny": 0
+				"primary": "To My Darling Claire,\n\nIn the symphony of love, you're the crescendo that makes my heart race ❤️. With you, every note is a thrill, and I'm swept away by the music of our love. You're the conductor of my heart, and I'll follow your lead into forever.\n\nAlways in harmony,\nFreddie",
+				"secondary": "Love's Crescendo",
+				"tertiary": "Freddie"
 			},
 			{
-				"id": 0,
-				"day": 0,
-				"chapter": 0,
 				"response": false,
-				"primary": "To My Beloved Claire, Our love transcends time and space. With you, every day is an adventure filled with love and laughter. Forever yours, Freddie",
-				"secondary": "A Love That Transcends, Claire",
-				"tertiary": "Freddie",
-				"parent": 0,
-				"allow": 0,
-				"deny": 0
+				"primary": "My Dearest Claire,\n\nYou're the poetry that dances in my soul, the verses that ignite my passion 🔥. With every whispered word, I declare my love for you, and the pages of our love story turn. You're the author of my heart, and I'll be your forever reader.\n\nYours in prose,\nFreddie",
+				"secondary": "Love in Prose",
+				"tertiary": "Freddie"
 			},
 			{
-				"id": 0,
-				"day": 0,
-				"chapter": 0,
 				"response": false,
-				"primary": "My Dearest Claire, Thank you for brightening my life. You're my soulmate, and I'm forever grateful for your presence. Love always, Freddie",
-				"secondary": "Forever Grateful for You, Claire",
-				"tertiary": "Freddie",
-				"parent": 0,
-				"allow": 0,
-				"deny": 0
+				"primary": "Dear Claire,\n\nIn the starlit sky, you're the brightest constellation, a guiding light in my life. With you, I navigate through the darkness, and the universe bows to the strength of our love. You're my North Star, and I'll follow you to infinity.\n\nWith all my love,\nFreddie",
+				"secondary": "Love's Guiding Star",
+				"tertiary": "Freddie"
 			},
 			{
-				"id": 0,
-				"day": 0,
-				"chapter": 0,
 				"response": false,
-				"primary": "To My Beloved Claire, In your arms, I find my sanctuary. I promise to cherish and protect our love. With all my heart, Freddie",
-				"secondary": "Wrapped in Your Love, Claire",
-				"tertiary": "Freddie",
-				"parent": 0,
-				"allow": 0,
-				"deny": 0
+				"primary": "To My Precious Claire,\n\nReasons I love you: Your kindness is a beacon that leads me home. Your compassion is a healing touch on my soul. Your love is a gift I treasure every day. Your presence is a source of comfort and joy.\n\nForever yours,\nFreddie",
+				"secondary": "Reasons Why You're My Everything",
+				"tertiary": "Freddie"
+			},
+			{
+				"response": false,
+				"primary": "My Sweet Claire,\n\nYou're the laughter that echoes in my heart, the smiles that light up my soul. With you, happiness takes root and blooms like a garden of joy 🌼. You're the sunlight in my life, and I'll bask in your warmth forever.\n\nWith all my love,\nFreddie",
+				"secondary": "Love's Garden of Joy",
+				"tertiary": "Freddie"
+			},
+			{
+				"response": false,
+				"primary": "Dear Claire,\n\nYou're the sweetest melody that plays on repeat in my mind 🎵. With every verse, our love story unfolds, and each chorus celebrates our happiness. You're my favorite song, and I'll sing it to the world.\n\nYours in harmony,\nFreddie",
+				"secondary": "Love's Sweet Melody",
+				"tertiary": "Freddie"
+			},
+			{
+				"response": false,
+				"primary": "My Beloved Claire,\n\nYou're the gentle breeze that sways me like a leaf in the wind 🍃. With you, I soar like a bird in the sky, embraced by freedom and love. You're the wind in my sails, and I'll journey with you to uncharted horizons.\n\nForever and always,\nFreddie",
+				"secondary": "Love on the Wind",
+				"tertiary": "Freddie"
+			},
+			{
+				"response": false,
+				"primary": "To My Precious Claire,\n\nReasons I love you: Your laughter is a melody that brings joy to my heart 😊. Your touch is a gentle breeze that caresses my soul. Your kindness is a warm embrace that comforts me. Your love is the compass that guides me home.\n\nForever yours,\nFreddie",
+				"secondary": "Reasons Why I Adore You",
+				"tertiary": "Freddie"
+			},
+			{
+				"response": false,
+				"primary": "Dear Claire,\n\nLike a beautiful symphony, our love plays in my heart 🎶. Each note resonates with passion and tenderness, creating a harmony that fills me with bliss. You're the conductor of my emotions, and I'll be your devoted audience, forever enthralled.\n\nYours always in harmony,\nFreddie",
+				"secondary": "A Symphony of Love",
+				"tertiary": "Freddie"
 			}
 		]
 	}
