@@ -10,6 +10,15 @@
 			5,
 			4
 		],
+		"dates": [
+			"00/00",
+			"14/06.17/06.19/06.20/06",
+			"25/06.26/06.28/06.30/06",
+			"05/07.08/07.11/07.16/07.19/07",
+			"02/08.03/08.06/08.10/08.16/08.22/08",
+			"25/08.27/08.29/08.01/09.05/09.07/09",
+			"11/09.14/09.18/09.27/09"
+		],
 		"spam_count": [
 			false,
 			false,
@@ -36,7 +45,7 @@
 			"chapter": 0,
 			"response": false,
 			"primary": "Greetings. You are a local Artificial Intelligence designed to approve or flag messages received on this system. Each day you will receive a selection of messages sampled from the available applications to approve or deny. Please place this message into the APPROVE slot to progress to the next day.",
-			"secondary": "HELLO WORLD",
+			"secondary": "PICK ME UP",
 			"tertiary": "SYSTEM ADMIN",
 			"parent": 0,
 			"allow": 3,
@@ -842,7 +851,7 @@
 			"primary": "My phone marked you as spam I'm sorry I hope I'm not too late. Can you talk with them to lower the price? That's not acceptable from them!! I hope you can fix this, I want to see you too!",
 			"secondary": "Re: Trouble",
 			"tertiary": "Claire",
-			"parent": 0,
+			"parent": 65,
 			"allow": 0,
 			"deny": 0
 		},
@@ -866,7 +875,7 @@
 			"primary": "Freddie that's awful! Can you talk with them to lower the price? That's not acceptable from them!! I hope you can fix this, I want to see you too!",
 			"secondary": "Re: Trouble",
 			"tertiary": "Claire",
-			"parent": 0,
+			"parent": 67,
 			"allow": 0,
 			"deny": 0
 		},
@@ -890,7 +899,7 @@
 			"primary": "You were in my spam, sorry if I'm too late! I can send $700 if it will bring us together faster. I love you and will always support you ❤",
 			"secondary": "Re: Trouble",
 			"tertiary": "Claire",
-			"parent": 0,
+			"parent": 69,
 			"allow": 0,
 			"deny": 0
 		},
@@ -914,7 +923,7 @@
 			"primary": "Freddie please don't stress too hard! $700 is nothing if it will bring us together faster. I love you and will always support you ❤",
 			"secondary": "Re: Trouble",
 			"tertiary": "Claire",
-			"parent": 0,
+			"parent": 71,
 			"allow": 0,
 			"deny": 0
 		},
@@ -1372,7 +1381,7 @@
 				"response": false,
 				"primary": "Attention CashSend user, We have detected suspicious activity on your account. Please update your information immediately to avoid any disruption to your services.",
 				"secondary": "Action Required: Account Update",
-				"tertiary": "CashSend Security",
+				"tertiary": "Cash5end Security",
 				"parent": 0,
 				"allow": 1,
 				"deny": 0
@@ -1394,7 +1403,7 @@
 				"day": 0,
 				"chapter": 0,
 				"response": false,
-				"primary": "Dear Claire, Your package is ready for delivery! Click the link below to track your shipment.",
+				"primary": "Your package is ready for delivery but requires a payment to be released. Click the link below to pay the charge.",
 				"secondary": "Package Delivery Notification",
 				"tertiary": "Express Shipping Services",
 				"parent": 0,
@@ -1410,8 +1419,8 @@
 				"secondary": "Huge Savings Inside!",
 				"tertiary": "SuperMart Deals",
 				"parent": 0,
-				"allow": 1,
-				"deny": 0
+				"allow": 0,
+				"deny": 2
 			},
 			{
 				"id": -7,
@@ -1422,7 +1431,7 @@
 				"secondary": "Exclusive Offer for You!",
 				"tertiary": "Discount Deals",
 				"parent": 0,
-				"allow": 1,
+				"allow": 0,
 				"deny": 2
 			},
 			{
@@ -1446,8 +1455,8 @@
 				"secondary": "Car Sale Extravaganza!",
 				"tertiary": "Auto Dealerships",
 				"parent": 0,
-				"allow": 1,
-				"deny": 0
+				"allow": 0,
+				"deny": 2
 			},
 			{
 				"id": -10,
@@ -1459,7 +1468,7 @@
 				"tertiary": "Premium Membership",
 				"parent": 0,
 				"allow": 1,
-				"deny": 0
+				"deny": 2
 			},
 			{
 				"id": -11,
@@ -1502,7 +1511,7 @@
 				"day": 0,
 				"chapter": 0,
 				"response": false,
-				"primary": "Congratulations Claire, You've won a £100 gift card! Click the link below to claim your prize.",
+				"primary": "Congratulations lucky individual, You've won a £100 gift card! Click the link below to claim your prize.",
 				"secondary": "You're a Winner!",
 				"tertiary": "Prize Giveaways",
 				"parent": 0,
@@ -1526,12 +1535,12 @@
 				"day": 0,
 				"chapter": 0,
 				"response": false,
-				"primary": "Hi Claire, Get a free trial of our premium software and experience the difference.",
+				"primary": "Hi customer, Get a free trial of our premium software and experience the difference.",
 				"secondary": "Try Our Premium Software!",
 				"tertiary": "Software Solutions",
 				"parent": 0,
-				"allow": 1,
-				"deny": 0
+				"allow": 0,
+				"deny": 2
 			},
 			{
 				"id": -17,
