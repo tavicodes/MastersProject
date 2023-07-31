@@ -10,17 +10,18 @@ CHECKLIST
 NOTES
 - 16-25 minutes to complete reading all
 
-- re:trouble line of messages broken
-- discount mart broken
+- re:trouble line of messages broken ✔
+- discount mart broken ✔
 
-- make button hitbox higher
-- remove next day after the first push?
-- change onboarding to encourage reading old messages
-- change old messages to say new / hide repeated subject clutter
-- add exit sign above door
-- fill out right side board
-- use corkboard to display chapter number and messages held in left and right hand
-- add approve and mark for spam posters on corkboard
-- change desk to actual model
-- add an alarm clock that displays the date of each day
-- add a radio and jeff for decoration on the right
+- make button hitbox higher ✔
+- remove next day after the first push? ✔
+- change onboarding to encourage reading old messages ✔
+- change old messages to say new / hide repeated subject clutter ✔
+- add exit sign above door ✔
+- fill out right side board ✔
+- use corkboard to display chapter number and messages held in left and right hand ✔
+- add approve and mark for spam posters on corkboard ✔
+- change desk to actual model ✔
+- add an alarm clock that displays the date of each day ✔
+- add a radio and jeff for decoration on the right ✔
+- add sounds ✔
