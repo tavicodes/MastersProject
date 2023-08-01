@@ -25,6 +25,7 @@ public struct ChapterInfo
 {
     public int chapter_count;
     public int[] day_length;
+    public string[] dates;
     public bool[] spam_count;
     public bool[] love_count;
 }
@@ -58,6 +59,7 @@ public class MessageManager : MonoBehaviour
     private List<DataObj> spamArray;
     private Dictionary<int, DataObj> responseArray;
     private List<DataObj> loveArray;
+    private List<string>[] dateArray;
     public GameObject messageSpawns;
     private Transform[] messageSpawnArray;
 
@@ -70,12 +72,15 @@ public class MessageManager : MonoBehaviour
     private static System.Random rng = new System.Random();
     public GameObject messagePrefab;
     public GameObject buttonObj;
+    public GameObject clockObj;
+    private TMP_Text dateText;
 
     void Awake()
     {
         dataColl = JsonUtility.FromJson<DataCollection>(dataFile.ToString());
 
         messageSpawnArray = messageSpawns.GetComponentsInChildren<Transform>();
+        dateText = clockObj.GetComponentInChildren<TMP_Text>();
 
         currentChapter = -1;
         currentDay = 0;
@@ -105,14 +110,21 @@ public class MessageManager : MonoBehaviour
         spamArray = new List<DataObj>();
         responseArray = new Dictionary<int, DataObj>();
         loveArray = new List<DataObj>();
+        dateArray = new List<string>[dataColl.chapter_info.chapter_count];
 
-
+        string[] tempDateArr;
         for (int i = 0; i < dataColl.chapter_info.chapter_count; i++)
         {
             messageDayArray[i] = new Dictionary<int, List<DataObj>>();
             for (int j = 1; j <= dataColl.chapter_info.day_length[i]; j++)
             {
                 messageDayArray[i].Add(j, new List<DataObj>());
+            }
+            dateArray[i] = new List<string>();
+            tempDateArr = dataColl.chapter_info.dates[i].Split('.');
+            foreach (var date in tempDateArr)
+            {
+                dateArray[i].Add(date);
             }
         }
 
@@ -162,6 +174,10 @@ public class MessageManager : MonoBehaviour
                 Application.Quit();
             #endif
         }
+        else if (currentChapter == dataColl.chapter_info.chapter_count - 1)
+        {
+            gameObject.GetComponentInChildren<DayButtonEffect>().ChangeText("END GAME");
+        }
 
         SpawnMessages();
     }
@@ -169,28 +185,35 @@ public class MessageManager : MonoBehaviour
     void SpawnMessages()
     {
         ++currentDay;
-        Debug.Log(String.Format("Day: {0}, Valid: {1}\nArray Length: {2}, JSON Length: {3}", currentDay, (messageDayArray[currentChapter].ContainsKey(currentDay)), messageDayArray[currentChapter].Count, dataColl.chapter_info.day_length[currentChapter]));
+        // Debug.Log(String.Format("Day: {0}, Valid: {1}\nArray Length: {2}, JSON Length: {3}", currentDay, (messageDayArray[currentChapter].ContainsKey(currentDay)), messageDayArray[currentChapter].Count, dataColl.chapter_info.day_length[currentChapter]));
 
+        // start new chapter if no more messages left
         if (currentDay > messageDayArray[currentChapter].Count)
         {
             StartChapter();
             return;
         }
 
+
+        // add spam if within day count
         if (currentDay <= dataColl.chapter_info.day_length[currentChapter])
+        {
+            if (dataColl.chapter_info.spam_count[currentChapter])
             {
-                if (dataColl.chapter_info.spam_count[currentChapter])
-                {
-                    DataObj tempSpam = spamArray[spamCount];
-                    tempSpam.id = -spamCount;
-                    ++spamCount;
-                    messageDayArray[currentChapter][currentDay].Add(tempSpam);
-                }
-                if (dataColl.chapter_info.love_count[currentChapter])
-                {
-                    messageDayArray[currentChapter][currentDay].Add(loveArray[loveCount++]);
-                }
+                DataObj tempSpam = spamArray[spamCount];
+                tempSpam.id = -spamCount;
+                ++spamCount;
+                messageDayArray[currentChapter][currentDay].Add(tempSpam);
             }
+            if (dataColl.chapter_info.love_count[currentChapter])
+            {
+                messageDayArray[currentChapter][currentDay].Add(loveArray[loveCount++]);
+            }
+        }
+        
+        // set clock
+        if ((currentDay - 1) < dateArray[currentChapter].Count) dateText.text = dateArray[currentChapter][currentDay - 1];
+        else dateText.text = dateArray[currentChapter][dateArray[currentChapter].Count - 1];
 
         List<Transform> tempPos = messageSpawnArray.OrderBy(a => rng.Next()).ToList();
 

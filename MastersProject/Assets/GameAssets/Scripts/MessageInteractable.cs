@@ -23,12 +23,13 @@ public class MessageInteractable : MonoBehaviour
 
     public GameObject ghostPrefab;
     public GameObject ghostObj;
+    public int offset;
 
     private MessageManager parentScript;
     private MessageDestination destinationScript;
 
     private Hand.AttachmentFlags attachmentFlags = Hand.defaultAttachmentFlags & ( ~Hand.AttachmentFlags.SnapOnAttach ) & (~Hand.AttachmentFlags.DetachOthers) & (~Hand.AttachmentFlags.VelocityMovement);
-    private bool isGrabbed;
+    public bool isGrabbed;
 
     private Interactable interactable;
 
@@ -81,7 +82,7 @@ public class MessageInteractable : MonoBehaviour
     void SpawnGhostChild(int newID)
     {
         int parentID = newID;
-        int offset = 1;
+        offset = 1;
 
         DataObj tempParent;
         GameObject tempObj;
@@ -89,7 +90,9 @@ public class MessageInteractable : MonoBehaviour
         {
             tempParent = parentScript.GetParentData(parentID);
             tempObj = Instantiate(ghostPrefab.gameObject, transform.position + new Vector3(-0.15f * offset, 0, -0.05f), Quaternion.Euler(90, 0, 0), ghostObj.transform) as GameObject;
+            tempObj.GetComponent<MessageInteractable>().offset = offset;
             tempObj.GetComponent<MessageInteractable>().SetGhostData(tempParent);
+            tempObj.SetActive(false);
 
             parentID = tempParent.parent;
             //Debug.Log(parentID);
@@ -97,8 +100,6 @@ public class MessageInteractable : MonoBehaviour
         }
 
         //Debug.Log("Offset: " + offset.ToString());
-
-        ghostObj.SetActive(false);
     }
 
     public void SetMessageData(DataObj newMessage)
@@ -114,6 +115,15 @@ public class MessageInteractable : MonoBehaviour
         if (messageData.parent != 0) SpawnGhostChild(messageData.parent);
     }
     
+    private void ResetGhostText()
+    {
+        if (offset == 1 && senderText == "Claire") generalText.text = string.Format("<size=70%>{0}", "NEW!");
+        else if (!subjectText.StartsWith("Re: ")) generalText.text = string.Format("<size=70%>{0}", subjectText);
+        else generalText.text = "";
+
+        bottomText.text = senderText;
+    }
+
     public void SetGhostData(DataObj newMessage)
     {
         messageData = newMessage;
@@ -121,8 +131,7 @@ public class MessageInteractable : MonoBehaviour
         subjectText = messageData.secondary;
         senderText = messageData.tertiary;
 
-        generalText.text = string.Format("<size=70%>{0}", subjectText);
-        bottomText.text = senderText;
+        ResetGhostText();        
     }
 
     //-------------------------------------------------
@@ -207,7 +216,7 @@ public class MessageInteractable : MonoBehaviour
         bottomText.text = "";
 
         isGrabbed = true;
-        if (ghostObj != null) ghostObj.SetActive(true);
+        if (ghostObj != null) foreach (Transform child in ghostObj.transform) child.gameObject.SetActive(true);
         else 
         {
             GetComponent<Rigidbody>().isKinematic = false;
@@ -223,6 +232,7 @@ public class MessageInteractable : MonoBehaviour
     {
         if (destinationScript != null)
         {
+            destinationScript.playEffect();
             parentScript.AddMessageToArray(destinationScript.isAllow, messageData);
             parentScript.DestroyMessage();
             Destroy(gameObject);
@@ -236,13 +246,15 @@ public class MessageInteractable : MonoBehaviour
             if (ghostObj != null) 
             {
                 generalText.text = subjectText;
-                ghostObj.SetActive(false);
+                foreach (Transform child in ghostObj.transform) child.gameObject.SetActive(false);
             }
             else 
             {
-                generalText.text = string.Format("<size=70%>{0}", subjectText);
+                if (offset == 1) offset = 0;
+                ResetGhostText();
                 GetComponent<Rigidbody>().isKinematic = true;
                 GetComponentInChildren<BoxCollider>().isTrigger = true;
+                if (!transform.parent.gameObject.GetComponentInParent<MessageInteractable>().isGrabbed) gameObject.SetActive(false);
             }
         }
     }

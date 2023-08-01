@@ -175,6 +175,8 @@ MonoBehaviour:
   ghostPrefab: {fileID: 2557717664933345854, guid: f81b118ad9fc4694aa784c9627d247e4,
     type: 3}
   ghostObj: {fileID: 658369133983401434}
+  offset: 0
+  isGrabbed: 0
 --- !u!114 &114000010364751000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -244,6 +246,7 @@ MonoBehaviour:
   - {fileID: 1040439658438066790}
   - {fileID: 8743222811842556500}
   - {fileID: 7236266984671105319}
+  - {fileID: 639847327566076688}
   hoverPriority: 0
 --- !u!114 &114000013394261110
 MonoBehaviour:
