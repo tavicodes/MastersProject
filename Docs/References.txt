@@ -4,6 +4,8 @@ Action Fraud (2022) Swipe left to romance fraud: Family members of online daters
 
 Australian Competition and Consumer Commission (2020) Targeting scams 2019. Canberra: Commonwealth of Australia. Available at: https://www.accc.gov.au/system/files/1657RPT_Targeting%20scams%202019_FA.pdf (Accessed: 10 March 2023).
 
+BedBible (2023) Romance Scams Statistics. Available at: https://bedbible.com/romance-scams-statistics/
+
 Bilz, A., Shepherd, LA., and Johnson, GI. (2023) Broken Hearts. Available at: https://lynsay.itch.io/broken-hearts (Accessed: 13 July 2023)
 
 Buchanan, T., and Whitty, (2014). The online dating romance scam: Causes and consequences of victimhood. Psychology, Crime and Law, 20(3), 261–283. https://doi.org/10.1080/1068316X.2013.772180
@@ -18,7 +20,15 @@ Chang, J. (2008) ‘An Analysis of Advance Fee Fraud on the Internet’, Journal
 
 Checa, D. and Bustillo, A., 2020. A review of immersive virtual reality serious games to enhance learning and training. Multimedia Tools and Applications, 79, pp.5501-5527.https://doi.org/10.1007/s11042-019-08348-9
 
+Checa, D., Miguel-Alonso, I. and Bustillo, A., 2021. Immersive virtual-reality computer-assembly serious game to enhance autonomous learning. Virtual Reality, pp.1-18.
+
 Chen,S. and Michael, D. (2005) Serious Games: Games That Educate, Train, and Inform. Course Technology.
+
+Djaouti, D., Alvarez, J. and Jessel, J.P., 2011. Classifying serious games: the G/P/S model. In Handbook of research on improving learning and motivation through educational games: Multidisciplinary approaches (pp. 118-136). IGI global.
+
+Federal Trade Commission (2023) Romance scammers' favourite lies exposed. Available at: https://www.ftc.gov/news-events/data-visualizations/data-spotlight/2023/02/romance-scammers-favorite-lies-exposed
+
+IFOP (2020) L’Observatoire Facebook-Ifop Des Rencontres En Ligne. Available at: https://www.ifop.com/wp-content/uploads/2020/12/Le-confinement-a-t-il-acc%C3%A9l%C3%A9r%C3%A9-la-digitalisation-des-rencontres.pdf
 
 Kemp, S., Miró-Llinares, F., and Moneva, A. (2020) ‘The Dark Figure and the Cyber Fraud Rise in Europe: Evidence from Spain’, European Journal on Criminal Policy and Research, 26, pp. 293–312. doi:10.1007/s10610-020-09439-2.
 
@@ -26,24 +36,53 @@ Lallie, H.S., Shepherd, L.A., Nurse, J.R., Erola, A., Epiphaniou, G., Maple, C. 
 
 Lee, H., Jung, T.H., tom Dieck, M.C. and Chung, N., 2020. Experiencing immersive virtual reality in museums. Information & Management, 57(5), p.103229.
 
+Lim, T., Carvalho, M.B., Bellotti, F., Arnab, S., de Freitas, S., Louchart, S., Suttie, N., Berta, R. and De Gloria, A., The LM-GM framework for serious games analysis (2013).
+
 Marczewski, A. (2018) 52 Gamification Mechanics and Elements. Gamified UK - #Gamification Expert. Available at: https://www.gamified.uk/user-types/gamification-mechanics-elements/
 
+Match Group (2023) Match Group Letter to Shareholders. Available at: https://s22.q4cdn.com/279430125/files/doc_financials/2022/q4/Earnings-Letter-Q4-2022-vFF.pdf
+
 Microsoft (no date) What is Business Email Compromise?. Available at: https://www.microsoft.com/en-us/security/business/security-101/what-is-business-email-compromise-bec (Accessed: 21 March 2023)
+
+Morning Consult (2022) National Tracking Poll #2201064. Available at: https://assets.morningconsult.com/wp-uploads/2022/01/27072829/2201064_crosstabs_MC_TECH_CATFISHING_Adults.pdf
 
 Online Dating Association (no date) Home page. Available at: https://www.onlinedatingassociation.org.uk/ (Accessed: 13 July 2023)
 
 Online Dating Association (no date) Framework for User Safety. Available at: https://www.onlinedatingassociation.org.uk/membership/standards-guidance/putting-safety-first-support-tools/framework-for-user-safety.html (Accessed: 13 July 2023)
 
+Office for National Statistics (2022) Nature of fraud and computer misuse in England and Wales: year ending March 2022. Available at: https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/natureoffraudandcomputermisuseinenglandandwales/yearendingmarch2022
+
+Rege, A., 2009. What's Love Got to Do with It? Exploring Online Dating Scams and Identity Fraud. International Journal of Cyber Criminology, 3(2).
+
 Seo, J.H., Bruner, M., Payne, A., Gober, N., McMullen, D. and Chakravorty, D.K., 2019. Using virtual reality to enforce principles of cybersecurity. The Journal of Computational Science Education, 10(1).
+
+Sorell, T. and Whitty, M., 2019. Online romance scams and victimhood. Security Journal, 32, pp.342-361.
+
+Statista (2020) Share of people who used a dating website at some point in their life in France from 2006 to October 2020, by gender. Available at:  https://www.statista.com/statistics/459465/dating-website-usage-by-gender-in-france/
+
+Statista (2023a) Number of reported romance scams in the United States from 2017 to 2022. Available at: https://www.statista.com/statistics/1366801/us-reported-romance-scams/
+
+Statista (2023b) Monthly downloads of Tinder from January 2018 to July 2023, by region. Statista. Available at: https://www.statista.com/statistics/1200357/monthly-downloads-of-tinder-by-region/
+
 
 Tinder (2020) Tinder Introduces Safety-Focused Updates. Available at: https://www.tinderpressroom.com/tinder-introduces-safety-updates (Accessed: 13 July 2023)
 
+Totem Learning (2021) Top 10 reasons why serious games are a great addition to your learning and development tool kit. Available at: https://www.totemlearning.com/totemblog/2021/5/4/top-10-reasons-why-serious-games-are-a-great-addition-to-your-learning-and-development-tool-kit
+
+UK Finance (2021) Fraud — The Facts 2021. Available at: https://www.ukfinance.org.uk/system/files/Fraud%20The%20Facts%202021-%20FINAL.pdf
+
+UK Finance (2022) Nearly 40 per cent of people looking for love online were asked for money. Available at: https://www.ukfinance.org.uk/press/press-releases/nearly-40-cent-people-looking-love-online-were-asked-money
+
 Wall, D., 2007. Cybercrime: The transformation of crime in the information age (Vol. 4). Polity.
 
-Whitty, M. (2013) ‘Anatomy of the online dating romance scam’, Security Journal, 28(4), pp. 1-13. doi:10.1057/sj.2012.57.
+Whitty, M. (2013a) ‘Anatomy of the online dating romance scam’, Security Journal, 28(4), pp. 1-13. doi:10.1057/sj.2012.57.
+
+Whitty, M.T., 2013b. The scammers persuasive techniques model: Development of a stage model to explain the online dating romance scam. British Journal of Criminology, 53(4), pp.665-684.
 
 Whitty, M.T., 2018. Do you love me? Psychological characteristics of romance scam victims. Cyberpsychology, behavior, and social networking, 21(2), pp.105-109.
 
 Whitty, M., and Buchanan, T. (2012). The online romance scam: A serious cybercrime. Cyberpsychology, Behavior, and Social Networking, 15(3), pp. 181–183. https://doi.org/10.1089/cyber.2011.0352
+
+Whitty, M.T. and Buchanan, T., 2016. The online dating romance scam: The psychological impact on victims–both financial and non-financial. Criminology & Criminal Justice, 16(2), pp.176-194.
 
 World Bank (2022) World Development Indicators. Available at: https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indicators (Accessed: 10 March 2023)
