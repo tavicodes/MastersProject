@@ -6,15 +6,23 @@ Australian Competition and Consumer Commission (2020) Targeting scams 2019. Canb
 
 BedBible (2023) Romance Scams Statistics. Available at: https://bedbible.com/romance-scams-statistics/
 
+Bellotti, F., Berta, R., De Gloria, A., D'ursi, A. and Fiore, V., 2013. A serious game model for cultural heritage. Journal on Computing and Cultural Heritage (JOCCH), 5(4), pp.1-27.
+
 Bilz, A., Shepherd, LA., and Johnson, GI. (2023) Broken Hearts. Available at: https://lynsay.itch.io/broken-hearts (Accessed: 13 July 2023)
+
+Bruno, F., Barbieri, L., Lagudi, A., Cozza, M., Cozza, A., Peluso, R. and Muzzupappa, M., 2018. Virtual dives into the underwater archaeological treasures of South Italy. Virtual Reality, 22, pp.91-102.
 
 Buchanan, T., and Whitty, (2014). The online dating romance scam: Causes and consequences of victimhood. Psychology, Crime and Law, 20(3), 261–283. https://doi.org/10.1080/1068316X.2013.772180
 
+Bucher, K., Blome, T., Rudolph, S. and von Mammen, S., 2019. VReanimate II: training first aid and reanimation in virtual reality. Journal of Computers in Education, 6, pp.53-78.
+
 Buil-Gil, D. and Zeng, Y., 2022. Meeting you was a fake: investigating the increase in romance fraud during COVID-19. Journal of Financial Crime, 29(2), pp.460-475. doi.org:10.1108/JFC-02-2021-0042.
 
-Canova, G., Volkamer, M., Bergmann, C. and Reinheimer, B., 2015a, February. NoPhish app evaluation: lab and retention study. In NDSS workshop on usable security.
+Canova, G., Volkamer, M., Bergmann, C. and Borza, R., 2014. NoPhish: an anti-phishing education app. In Security and Trust Management: 10th International Workshop, STM 2014, Wroclaw, Poland, September 10-11, 2014. Proceedings 10 (pp. 188-192). Springer International Publishing.
 
 Canova, G., Volkamer, M., Bergmann, C., and Berens, B., 2015b. NoPhish App Evaluation: Lab and Retention Study. 10.14722/usec.2015.23009. 
+
+Cambridge Dictionary (no date) Gamification English Meaning. Available at: https://dictionary.cambridge.org/dictionary/english/gamification
 
 Chang, J. (2008) ‘An Analysis of Advance Fee Fraud on the Internet’, Journal of Financial Crime, 15(1) 71-81
 
@@ -29,6 +37,10 @@ Djaouti, D., Alvarez, J. and Jessel, J.P., 2011. Classifying serious games: the 
 Federal Trade Commission (2023) Romance scammers' favourite lies exposed. Available at: https://www.ftc.gov/news-events/data-visualizations/data-spotlight/2023/02/romance-scammers-favorite-lies-exposed
 
 IFOP (2020) L’Observatoire Facebook-Ifop Des Rencontres En Ligne. Available at: https://www.ifop.com/wp-content/uploads/2020/12/Le-confinement-a-t-il-acc%C3%A9l%C3%A9r%C3%A9-la-digitalisation-des-rencontres.pdf
+
+Jaffray, A., Finn, C. and Nurse, J.R., 2021. Sherlocked: A detective-themed serious game for cyber security education. In Human Aspects of Information Security and Assurance: 15th IFIP WG 11.12 International Symposium, HAISA 2021, Virtual Event, July 7–9, 2021, Proceedings 15 (pp. 35-45). Springer International Publishing.
+
+Khatib, F., DiMaio, F., Foldit Contenders Group, Foldit Void Crushers Group, Cooper, S., Kazmierczyk, M., Gilski, M., Krzywda, S., Zabranska, H., Pichova, I. and Thompson, J., 2011. Crystal structure of a monomeric retroviral protease solved by protein folding game players. Nature structural & molecular biology, 18(10), pp.1175-1177.
 
 Kemp, S., Miró-Llinares, F., and Moneva, A. (2020) ‘The Dark Figure and the Cyber Fraud Rise in Europe: Evidence from Spain’, European Journal on Criminal Policy and Research, 26, pp. 293–312. doi:10.1007/s10610-020-09439-2.
 
@@ -68,6 +80,10 @@ Statista (2023b) Monthly downloads of Tinder from January 2018 to July 2023, by 
 Tinder (2020) Tinder Introduces Safety-Focused Updates. Available at: https://www.tinderpressroom.com/tinder-introduces-safety-updates (Accessed: 13 July 2023)
 
 Totem Learning (2021) Top 10 reasons why serious games are a great addition to your learning and development tool kit. Available at: https://www.totemlearning.com/totemblog/2021/5/4/top-10-reasons-why-serious-games-are-a-great-addition-to-your-learning-and-development-tool-kit
+
+Ubisoft (2021) Discovery Tour. Available at: https://www.ubisoft.com/en-gb/game/assassins-creed/discovery-tour
+
+Ubisoft (no date) Assassin's Creed Franchise. Available at: https://www.ubisoft.com/en-gb/game/assassins-creed
 
 UK Finance (2021) Fraud — The Facts 2021. Available at: https://www.ukfinance.org.uk/system/files/Fraud%20The%20Facts%202021-%20FINAL.pdf
 
